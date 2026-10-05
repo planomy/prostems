@@ -405,7 +405,1210 @@ const DATA = {
   topic: "Set 1"
 };
 
-type SetItem = (typeof SETS)[number];
+type SetItem = (typeof SETS)[number] & { theme?: string; paragraphExercise?: string };
+
+const TRANSFER_SETS: SetItem[] = [
+  {
+    "title": "Set 21",
+    "theme": "The trophy thief",
+    "activities": [
+      [
+        "Slipping beneath the rope, the thief lifted the trophy, tucked it under his coat and nodded to the security camera.",
+        "Duck behind the curtain and build four linked actions: Ducking behind the curtain, the caretaker …"
+      ],
+      [
+        "The prize cupboard held a dented silver cup, a medal on a frayed ribbon and a shield with one name scratched out.",
+        "The lost-property drawer contained …"
+      ],
+      [
+        "A gifted pickpocket and a terrible liar, Theo blamed the trophy’s disappearance on a gust of wind.",
+        "A patient investigator and …, Amira …"
+      ],
+      [
+        "When the coat fell open, its contents — a silver trophy and a stolen sausage roll — clattered onto the tiles.",
+        "When the suitcase burst open, its contents — … — …"
+      ],
+      [
+        "Many guests noticed the missing trophy, though most kept watching the chocolate fountain.",
+        "Many passengers noticed the abandoned suitcase, though most …"
+      ],
+      [
+        "Beneath the winners’ photograph, the cleaner found a trail of silver glitter.",
+        "…, the music teacher discovered a muddy shoe on the piano. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a trophy in one hand and a dripping ice block in the other, Theo struggled to open the gate.",
+        "With a muddy shoe in one hand and …"
+      ],
+      [
+        "A ribbon of petrol-blue light leaked beneath the stage door.",
+        "A patch of rust-red paint …"
+      ],
+      [
+        "The camera swivelled and tracked the thief across the foyer.",
+        "The security dog … [use two precise actions]"
+      ],
+      [
+        "A chipped brass plaque hung above the narrow, unlit staircase.",
+        "A … envelope lay beneath the … chair."
+      ],
+      [
+        "Silently, suspicion became a cold finger tracing the back of Theo’s neck.",
+        "Gradually, guilt became … [extend the metaphor]"
+      ],
+      [
+        "The floorboards complained beneath his shoes, each squeak announcing another guilty step.",
+        "The cupboard door … [give it a voice and an attitude]"
+      ],
+      [
+        "The thief edged along the wall, shielding the trophy beneath his coat.",
+        "The guard [sauntered / crept] towards the cupboard, [rattling / easing] … [choose for stealth]"
+      ]
+    ],
+    "gemmell": "The school hall smelled of floor polish and hot chips. Paper stars hung above the prize table, turning in the draught from the doors. A silver cup stood between two smaller trophies, its handles catching the stage lights. Shoes squeaked along the aisle. Beneath the table, a loose ribbon stirred. Then a hand reached out from behind the cloth and slowly pulled the cup into the dark.",
+    "paragraphExercise": "Describe a museum after closing: establish the place and mood, select sensory details, introduce a small movement and end on a revealing image."
+  },
+  {
+    "title": "Set 22",
+    "theme": "The midnight aquarium",
+    "activities": [
+      [
+        "Crawling behind the tank, Zara unplugged the pump, caught the leaking water and shouted for the keeper.",
+        "Leaping over the puddle, the night guard … [four linked actions altogether]"
+      ],
+      [
+        "The tank revealed a sunken toy ship, a forest of waving kelp and a crab guarding a bottle cap.",
+        "The moonlit rock pool revealed …"
+      ],
+      [
+        "A careful keeper and an enthusiastic inventor, Mei built a feeder that the octopus immediately dismantled.",
+        "A fearless diver and …, Finn …"
+      ],
+      [
+        "Beyond the glass, two shapes — a sleeping shark and a drifting ray — crossed in the blue light.",
+        "Beneath the jetty, two shadows — … — …"
+      ],
+      [
+        "Many visitors searched for the shark, though most missed the tiny seahorse gripping the rope.",
+        "Many campers searched for the owl, though most …"
+      ],
+      [
+        "Against the keeper’s advice, Zara tapped on the octopus tank.",
+        "…, the keeper counted one fewer fish than yesterday. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a torch in one hand and a bucket of squid in the other, Mei followed the wet footprints.",
+        "With a dripping net in one hand and …"
+      ],
+      [
+        "An ink-blue shadow slid beneath the coral.",
+        "A strip of bottle-green sea …"
+      ],
+      [
+        "The octopus gripped and twisted the jar lid.",
+        "The hermit crab … [two precise actions]"
+      ],
+      [
+        "A translucent pink jellyfish pulsed beside the cracked, algae-coated window.",
+        "A … starfish clung to the … rock."
+      ],
+      [
+        "Patiently, the current became a conveyor belt carrying lost shells towards the drain.",
+        "Relentlessly, the tide became … [extend the metaphor]"
+      ],
+      [
+        "The pump coughed twice and grumbled back to life.",
+        "The rusty tap … [sound and personification]"
+      ],
+      [
+        "The ray glided over the sand, brushing the bottom with its fins.",
+        "The seal [hauled / floated] itself onto the ledge, [slapping / folding] … [choose for a clumsy landing]"
+      ]
+    ],
+    "gemmell": "The aquarium was almost dark. Blue light washed the empty walkway, and the tanks hummed behind thick glass. Salt and wet rope scented the air. A mop stood beside a bucket, its handle reflected in the shark tank. Somewhere, a drip counted the seconds. An octopus arm appeared beneath a loose lid, felt along the rim and curled around the keeper’s forgotten keys.",
+    "paragraphExercise": "Describe an empty reptile house: move from its atmosphere through sensory details to a small movement and a final image suggesting trouble."
+  },
+  {
+    "title": "Set 23",
+    "theme": "The robot substitute",
+    "activities": [
+      [
+        "Rolling into class, the robot scanned the roll, stamped the worksheets and confiscated its own charging cable.",
+        "Clattering through the library doors, the delivery robot … [four linked actions]"
+      ],
+      [
+        "The robot’s desk held a magnetic apple, a stack of blank detention slips and a mug labelled HUMAN FUEL.",
+        "The inventor’s workbench held …"
+      ],
+      [
+        "A brilliant mathematician and a literal-minded teacher, Unit Seven marked the question mark as an unanswered question.",
+        "A cheerful assistant and …, Unit Nine …"
+      ],
+      [
+        "Inside its chest, two lights — a steady green dot and a flashing red triangle — competed for attention.",
+        "Above the control panel, two signals — … — …"
+      ],
+      [
+        "Many students praised the robot’s marking, though most unplugged it before the spelling test.",
+        "Many shoppers admired the robot cashier, though most …"
+      ],
+      [
+        "After a worrying burst of static, the robot announced that lunchtime had been cancelled.",
+        "…, the robot announced that the class pet was the new principal. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a marker in one hand and a magnet in the other, Unit Seven erased the entire timetable.",
+        "With a broken whisk in one hand and …"
+      ],
+      [
+        "Copper-orange sparks scattered across the robot’s silver feet.",
+        "An acid-yellow warning light …"
+      ],
+      [
+        "The printer whined and disgorged another hundred worksheets.",
+        "The robotic arm … [two precise actions]"
+      ],
+      [
+        "A square steel head turned towards the small, flickering screen.",
+        "A … antenna rose above the … casing."
+      ],
+      [
+        "Abruptly, the classroom became a factory stamping identical answers onto identical sheets.",
+        "Slowly, the staffroom became … [extend the metaphor]"
+      ],
+      [
+        "The loudspeaker barked an instruction, then sulked in a puddle of static.",
+        "The photocopier … [sound and personification]"
+      ],
+      [
+        "The robot lumbered between the desks, clipping every chair with its knees.",
+        "The tiny drone [darted / trudged] between the shelves, [dodging / crushing] … [choose for nimble movement]"
+      ]
+    ],
+    "gemmell": "The classroom smelled of warm plastic. Desks stood in exact rows, with a ruler placed across the top of every worksheet. The fluorescent lights buzzed. On the board, a green cursor blinked beside the words GOOD MORNING, HUMANS. A charging cable snaked towards the teacher’s desk. Underneath it, a small metal foot tapped in perfect time with the clock.",
+    "paragraphExercise": "Describe a robot’s kitchen: establish an unnatural order, develop sensory details, show a small movement and finish with an unsettling image."
+  },
+  {
+    "title": "Set 24",
+    "theme": "The runaway cake",
+    "activities": [
+      [
+        "Diving across the bench, Sam caught the cake, steadied the wobbling tiers and rescued the bride’s sugar crown.",
+        "Skidding across the dance floor, the waiter … [four linked actions]"
+      ],
+      [
+        "The ruined icing revealed a crooked chocolate tower, a river of raspberry jam and a tiny bride wearing one boot.",
+        "The collapsed gingerbread village revealed …"
+      ],
+      [
+        "A talented baker and an overconfident engineer, Aisha trusted a biscuit bridge to support three kilograms of icing.",
+        "A careful decorator and …, Luca …"
+      ],
+      [
+        "On the trolley, two disasters — a leaning cake and a loose wheel — approached the top of the stairs.",
+        "Beside the stage, two problems — … — …"
+      ],
+      [
+        "Many guests offered to save the cake, though most arrived with a plate and a fork.",
+        "Many neighbours offered to repair the chocolate fountain, though most …"
+      ],
+      [
+        "With one eye on the wobbling tower, Sam edged the trolley away from the stairs.",
+        "…, the waiter discovered a biscuit in the bride’s bouquet. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a piping bag in one hand and a spirit level in the other, Aisha inspected her masterpiece.",
+        "With a rolling pin in one hand and …"
+      ],
+      [
+        "Cherry-red icing dripped onto the white tablecloth.",
+        "A swirl of pistachio-green cream …"
+      ],
+      [
+        "The trolley juddered and veered towards the doorway.",
+        "The sugar tower … [two precise actions]"
+      ],
+      [
+        "A glossy chocolate crown slid down the warm, lopsided cake.",
+        "A … biscuit roof rested on the … walls."
+      ],
+      [
+        "Mercilessly, the heat became a sculptor bending every sugar flower out of shape.",
+        "Steadily, the rain became … [extend the metaphor]"
+      ],
+      [
+        "The fridge groaned at the sight of another enormous tray.",
+        "The kitchen timer … [sound and personification]"
+      ],
+      [
+        "The baker dabbed at the crack, coaxing icing into the gap.",
+        "The impatient guest [prodded / cradled] the biscuit bridge, [shattering / supporting] … [choose for careless handling]"
+      ]
+    ],
+    "gemmell": "The kitchen was hotter than the dining room. Butter and toasted sugar hung in the air, and flour dusted the tiles like pale footprints. A three-tier cake leaned beneath the extractor fan. Its tiny sugar bride stood at the edge of the top layer, one arm raised. A wheel squeaked. The trolley shifted forward, and the bride tipped face-first into a rose.",
+    "paragraphExercise": "Describe a competition table covered in fragile models: atmosphere, sensory details, small movement and a final image marking the beginning of a mishap."
+  },
+  {
+    "title": "Set 25",
+    "theme": "The museum alarm",
+    "activities": [
+      [
+        "Squinting into the torchlight, the guard spotted a moving tail, lifted the display cloth and discovered the curator’s cat.",
+        "Kneeling beside the broken case, the detective … [four linked actions]"
+      ],
+      [
+        "The cabinet contained a cracked bronze helmet, a tiny clay horse and a tooth longer than the guard’s hand.",
+        "The attic trunk contained …"
+      ],
+      [
+        "A respected curator and a secret prankster, Dr Bell placed a rubber duck inside the ancient vase.",
+        "A keen historian and …, Jules …"
+      ],
+      [
+        "Across the wall, two shadows — a raised spear and a twitching tail — trembled in the torchlight.",
+        "Behind the curtain, two outlines — … — …"
+      ],
+      [
+        "Many visitors studied the ancient coins, though most photographed the duck in the vase.",
+        "Many judges studied the science displays, though most …"
+      ],
+      [
+        "Without touching the fragile glass, the detective examined the dusty handprint.",
+        "…, the curator found a feather inside the locked cabinet. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a magnifying glass in one hand and a cat biscuit in the other, the guard negotiated with the suspect.",
+        "With a museum map in one hand and …"
+      ],
+      [
+        "A tarnished bronze-green helmet sat beneath the spotlight.",
+        "A flash of garnet-red velvet …"
+      ],
+      [
+        "The cat stalked and pounced on the projector’s moving dot.",
+        "The curator … [two precise actions]"
+      ],
+      [
+        "A narrow iron key lay inside the dusty, velvet-lined case.",
+        "A … mask stared through the … window."
+      ],
+      [
+        "Slowly, the museum became a maze feeding the guard from one dark corridor into another.",
+        "Quietly, the attic became … [extend the metaphor]"
+      ],
+      [
+        "The alarm shrieked its accusation at the empty hall.",
+        "The lift … [sound and personification]"
+      ],
+      [
+        "The guard shuffled past the skeleton, dragging his torch beam across the floor.",
+        "The cat [prowled / marched] beneath the cases, [stalking / greeting] … [choose for a hunt]"
+      ]
+    ],
+    "gemmell": "The museum’s long gallery was cold and still. Glass cases reflected the guard’s torch, multiplying each small movement. The air smelled of dust and the lemon cleaner used on the floor. An iron helmet stared from an empty suit of armour. Somewhere behind the ancient coins, something scratched. A black tail rose above the case and curled around the alarm sensor.",
+    "paragraphExercise": "Describe an antique shop at night: establish atmosphere, sensory details, one small movement and a final image that changes our understanding."
+  },
+  {
+    "title": "Set 26",
+    "theme": "The rooftop rescue",
+    "activities": [
+      [
+        "Clambering onto the roof, Ben tested the gutter, caught the loose ladder and reached for the stranded kitten.",
+        "Balancing on the jetty, the lifeguard … [four linked actions]"
+      ],
+      [
+        "The rooftop offered a crooked television aerial, a patch of cracked tiles and a pigeon glaring from the chimney.",
+        "The storm-damaged balcony offered …"
+      ],
+      [
+        "A fearless climber and a devoted cat owner, Nia borrowed three ladders and forgot to bring the cat carrier.",
+        "A resourceful sailor and …, Ollie …"
+      ],
+      [
+        "Above the gutter, two obstacles — a sagging cable and a furious pigeon — blocked the rescue.",
+        "Below the footbridge, two hazards — … — …"
+      ],
+      [
+        "Many neighbours brought advice, though most stayed safely behind their windows.",
+        "Many spectators suggested a rescue plan, though most …"
+      ],
+      [
+        "Despite the pigeon’s fierce objections, Ben crawled towards the chimney.",
+        "…, the lifeguard noticed a puppy beneath the jetty. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a kitten in one hand and a broken tile in the other, Nia reconsidered her route down.",
+        "With a rescue rope in one hand and …"
+      ],
+      [
+        "A slate-grey cloud swallowed the last strip of sunlight.",
+        "A band of apricot-orange sky …"
+      ],
+      [
+        "The ladder flexed and scraped against the gutter.",
+        "The loose sail … [two precise actions]"
+      ],
+      [
+        "A soaked ginger kitten crouched beneath the cracked, soot-blackened chimney.",
+        "A … gull perched on the … railing."
+      ],
+      [
+        "Suddenly, the gap between the roofs became a mouth waiting for Ben’s next step.",
+        "Gradually, the rising river became … [extend the metaphor]"
+      ],
+      [
+        "The gutter rattled a warning beneath his boot.",
+        "The jetty … [sound and personification]"
+      ],
+      [
+        "The kitten wedged itself behind the chimney, hooking its claws into the mortar.",
+        "The puppy [squeezed / strode] beneath the fence, [snagging / polishing] … [choose for a tight escape]"
+      ]
+    ],
+    "gemmell": "The roof was slick after the rain. Water gathered in the hollows of the tiles and trickled into a gutter crowded with leaves. A television aerial clicked against its pole. Far below, a bus sighed at the stop. Beneath the chimney, two green eyes watched the ladder approach. A tiny paw emerged, touched the wet tile and withdrew into the shelter of the brickwork.",
+    "paragraphExercise": "Describe a stranded animal beneath a footbridge: move from place and atmosphere through sound and texture to a small, revealing action."
+  },
+  {
+    "title": "Set 27",
+    "theme": "The library secret",
+    "activities": [
+      [
+        "Reaching behind the shelf, Priya found a lever, pulled it towards her and opened a door into the wall.",
+        "Peering beneath the stage, the caretaker … [four linked actions]"
+      ],
+      [
+        "The secret room held a folding bed, a cupboard of costumes and a clock without hands.",
+        "The hidden compartment held …"
+      ],
+      [
+        "A quiet librarian and a champion escape artist, Ms Khan could leave a locked room before the kettle boiled.",
+        "A nervous magician and …, Ravi …"
+      ],
+      [
+        "Inside the book, two clues — a pressed fern and a pencilled address — interrupted the story.",
+        "Inside the coat pocket, two clues — … — …"
+      ],
+      [
+        "Many readers borrowed the mystery novel, though most returned it without noticing the hollow cover.",
+        "Many customers bought the old maps, though most …"
+      ],
+      [
+        "Between the atlas and the cookbook, Priya found a book that was warmer than the others.",
+        "…, the magician heard someone knocking inside his empty trunk. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a library card in one hand and a brass key in the other, Ms Khan entered a door labelled STAFF ONLY.",
+        "With a theatre ticket in one hand and …"
+      ],
+      [
+        "A wine-red curtain concealed the narrow doorway.",
+        "A mustard-yellow label …"
+      ],
+      [
+        "The shelf pivoted and scraped along the floor.",
+        "The hidden latch … [two precise actions]"
+      ],
+      [
+        "A slim leather notebook rested on the low, dust-coated table.",
+        "A … photograph lay beneath the … box."
+      ],
+      [
+        "Quietly, curiosity became a hook tugging Priya towards the dark opening.",
+        "Insistently, doubt became … [extend the metaphor]"
+      ],
+      [
+        "The old clock cleared its throat with a single hollow tick.",
+        "The locked drawer … [sound and personification]"
+      ],
+      [
+        "Priya traced the faded address, tilting the page towards the lamp.",
+        "The caretaker [skimmed / scrutinised] the torn note, [checking / discarding] … [choose for careful investigation]"
+      ]
+    ],
+    "gemmell": "The library’s back aisle smelled of paper and raincoats. Tall shelves narrowed the light to a thin strip across the carpet. A trolley stood beside the atlas section, its wheels wrapped in hair and dust. From somewhere inside the wall came a quiet ticking. One book protruded from the shelf. Its cover lifted a fraction, although nobody was touching it.",
+    "paragraphExercise": "Describe a second-hand bookshop with a concealed space: atmosphere, sensory details, a small movement and an intriguing final image."
+  },
+  {
+    "title": "Set 28",
+    "theme": "The carnival bargain",
+    "activities": [
+      [
+        "Threading through the crowd, Evie reached the stall, counted her coins and challenged the grinning stallholder.",
+        "Squeezing beneath the market awning, Max … [four linked actions]"
+      ],
+      [
+        "The prize shelf displayed a one-eyed teddy, a plastic crown and a goldfish-shaped whistle.",
+        "The magician’s stall displayed …"
+      ],
+      [
+        "A persuasive salesman and an expert juggler, Mr Vale kept three oranges in the air while explaining the rules.",
+        "A skilled negotiator and …, Isla …"
+      ],
+      [
+        "Beside the wheel, two signs — FREE TURN and WINNER PAYS — made Evie hesitate.",
+        "Above the doorway, two notices — … — …"
+      ],
+      [
+        "Many players won a prize, though most discovered it was smaller than the entrance ticket.",
+        "Many shoppers accepted the free sample, though most …"
+      ],
+      [
+        "With her last coin balanced on her thumb, Evie considered the suspiciously easy game.",
+        "…, the stallholder offered Isla a second turn. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a crown in one hand and a squeaking hammer in the other, Max marched towards the dodgem cars.",
+        "With a spinning plate in one hand and …"
+      ],
+      [
+        "Candyfloss-pink light flickered above the ticket booth.",
+        "A row of electric-blue bulbs …"
+      ],
+      [
+        "The prize wheel clicked and shuddered to a stop.",
+        "The dodgem car … [two precise actions]"
+      ],
+      [
+        "A faded striped tent sagged beside the bright, crowded carousel.",
+        "A … banner fluttered above the … stall."
+      ],
+      [
+        "Gradually, the queue became a snake coiling around the ticket booth.",
+        "Suddenly, the crowd became … [extend the metaphor]"
+      ],
+      [
+        "The carousel wheezed through another cheerful tune.",
+        "The popcorn machine … [sound and personification]"
+      ],
+      [
+        "Evie flicked the token, sending it skimming across the polished board.",
+        "Max [lobbed / placed] the beanbag towards the distant bucket, [clearing / nestling against] … [choose for a long throw]"
+      ]
+    ],
+    "gemmell": "The carnival’s smallest stall stood between two roaring rides. Its canvas roof flapped above a counter sticky with spilled cordial. Plastic prizes dangled from hooks, their painted smiles fading in the heat. The wheel clicked behind the stallholder. Beneath the counter, his shoe nudged a hidden pedal. The pointer slid past the largest prize and settled on a keyring.",
+    "paragraphExercise": "Describe a suspicious market game: establish the busy setting, select sensory details, show a small concealed movement and end with its consequence."
+  },
+  {
+    "title": "Set 29",
+    "theme": "The weather machine",
+    "activities": [
+      [
+        "Ducking beneath the pipes, Hugo tightened the valve, caught the falling gauge and switched off the indoor thunderstorm.",
+        "Wading across the flooded shed, the inventor … [four linked actions]"
+      ],
+      [
+        "The control panel showed a cracked pressure dial, a snowflake-shaped button and a lever marked PROBABLY SAFE.",
+        "The submarine dashboard showed …"
+      ],
+      [
+        "A talented inventor and an impatient gardener, Mr Yu built a rain machine that flooded his own tomatoes.",
+        "A practical mechanic and …, Hana …"
+      ],
+      [
+        "Above the roof, two warnings — a spiralling cloud and a flash of green lightning — grew harder to ignore.",
+        "Across the radar screen, two warnings — … — …"
+      ],
+      [
+        "Many neighbours requested cooler weather, though most objected when snow covered their washing.",
+        "Many farmers welcomed the rain, though most …"
+      ],
+      [
+        "Before the hail reached the kitchen, Hugo dragged the machine towards the shed.",
+        "…, Hana noticed frost forming around the greenhouse door. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a spanner in one hand and an umbrella in the other, Hana approached the leaking engine.",
+        "With a thermometer in one hand and …"
+      ],
+      [
+        "A sulphur-yellow glow filled the machine’s glass chamber.",
+        "A streak of violet-grey cloud …"
+      ],
+      [
+        "The valve hissed and spat steam across the bench.",
+        "The frozen pipe … [two precise actions]"
+      ],
+      [
+        "A frost-coated copper pipe ran across the wet, slippery floor.",
+        "A … dial hung above the … lever."
+      ],
+      [
+        "Relentlessly, the storm became a drummer beating on every roof in the street.",
+        "Steadily, the fog became … [extend the metaphor]"
+      ],
+      [
+        "The machine sneezed a shower of ice onto the workbench.",
+        "The boiler … [sound and personification]"
+      ],
+      [
+        "Hugo wrestled the lever down, forcing the whining motor to stop.",
+        "Hana [feathered / slammed] the control switch, [easing / wrenching] … [choose for a gentle adjustment]"
+      ]
+    ],
+    "gemmell": "The shed smelled of wet timber and hot metal. Coils of copper pipe crowded the bench, and condensation ran down a row of jars. A dial trembled between RAIN and REGRET. Thunder rolled inside the ceiling. On a shelf, a snowflake settled on the inventor’s gardening book. It melted across the word DROUGHT, leaving a small dark stain.",
+    "paragraphExercise": "Describe a machine producing unexpected weather in a greenhouse: place, atmosphere, sensory details, small movement and a meaningful final image."
+  },
+  {
+    "title": "Set 30",
+    "theme": "The tunnel message",
+    "activities": [
+      [
+        "Wriggling through the opening, Eden brushed away the cobwebs, raised her torch and read the scratched message.",
+        "Crouching beside the drain, the explorer … [four linked actions]"
+      ],
+      [
+        "The tunnel floor held a snapped torch, a trail of wet footprints and a biscuit tin tied with string.",
+        "The abandoned bunker held …"
+      ],
+      [
+        "A determined explorer and a cautious friend, Eden checked the rope before entering the tunnel.",
+        "A curious photographer and …, Noah …"
+      ],
+      [
+        "At the junction, two marks — a chalk arrow and a fresh handprint — pointed in opposite directions.",
+        "On the locked gate, two clues — … — …"
+      ],
+      [
+        "Many explorers followed the painted arrows, though most turned back when the arrows stopped.",
+        "Many walkers entered the cave, though most …"
+      ],
+      [
+        "Beyond the last patch of daylight, Eden heard water moving beneath the floor.",
+        "…, Noah raised his camera towards the bunker entrance. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a torch in one hand and a folded map in the other, Noah compared the tunnel with the drawing.",
+        "With a chalk stub in one hand and …"
+      ],
+      [
+        "A chalk-white arrow stood out against the blackened bricks.",
+        "A band of clay-red mud …"
+      ],
+      [
+        "Water seeped and pooled around the explorer’s boots.",
+        "The torch beam … [two precise actions]"
+      ],
+      [
+        "A frayed nylon rope stretched along the low, moss-covered wall.",
+        "A … ladder descended into the … chamber."
+      ],
+      [
+        "Slowly, the darkness became a curtain swallowing each inch of the torch beam.",
+        "Gradually, the silence became … [extend the metaphor]"
+      ],
+      [
+        "The tunnel whispered back every word Eden spoke.",
+        "The loose grate … [sound and personification]"
+      ],
+      [
+        "Noah inched past the broken ladder, bracing his shoulder against the wall.",
+        "Eden [bounded / shuffled] across the unstable boards, [testing / ignoring] … [choose for caution]"
+      ]
+    ],
+    "gemmell": "The tunnel mouth was half-hidden by ferns. Inside, damp bricks pressed close around the narrow path. Water dripped behind the walls, and the air tasted of soil. A rope ran along the floor towards a bend. Beside it, a muddy footprint shone in the torchlight. A second drop of water struck the print, blurring the sharp edge of a heel.",
+    "paragraphExercise": "Describe an abandoned bunker: establish its atmosphere, select sensory details, show a small movement and end on evidence that someone has recently visited."
+  },
+  {
+    "title": "Set 31",
+    "theme": "The school election",
+    "activities": [
+      [
+        "Stepping onto the stage, Miri unfolded her notes, adjusted the microphone and promised a pool beside the library.",
+        "Striding into the debate room, the rival candidate … [four linked actions]"
+      ],
+      [
+        "The campaign table offered a jar of badges, a bowl of free mandarins and a poster promising longer weekends.",
+        "The rival campaign stall offered …"
+      ],
+      [
+        "A confident speaker and a reluctant organiser, Miri won the debate and forgot to submit her nomination.",
+        "A careful planner and …, Jay …"
+      ],
+      [
+        "Behind the candidate, two promises — shorter homework and longer lunch breaks — filled the poster.",
+        "Beside the ballot box, two warnings — … — …"
+      ],
+      [
+        "Many students applauded the swimming-pool proposal, though most asked who would pay for it.",
+        "Many voters liked the free-breakfast plan, though most …"
+      ],
+      [
+        "After a question from the back row, Miri quietly crossed out the word GUARANTEED.",
+        "…, Jay asked how the free breakfasts would be funded. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a microphone in one hand and a torn poster in the other, Jay explained his revised plan.",
+        "With a ballot paper in one hand and …"
+      ],
+      [
+        "A cobalt-blue badge flashed on Miri’s jacket.",
+        "A strip of tangerine-orange bunting …"
+      ],
+      [
+        "The audience murmured and shifted when the cost appeared on the screen.",
+        "The returning officer … [two precise actions]"
+      ],
+      [
+        "A handwritten paper sign hung above the crowded, sunlit voting desk.",
+        "A … badge lay beside the … ballot box."
+      ],
+      [
+        "Suddenly, the question became a pin puncturing Miri’s magnificent promise.",
+        "Quietly, the rumour became … [extend the metaphor]"
+      ],
+      [
+        "The microphone squealed its objection to another shouted promise.",
+        "The hall speakers … [sound and personification]"
+      ],
+      [
+        "Jay weighed the question, pausing before he answered.",
+        "Miri [blurted / measured] her reply, [interrupting / considering] … [choose for an impulsive answer]"
+      ]
+    ],
+    "gemmell": "The hall smelled of warm sandwiches. Campaign posters crowded the walls, and a cardboard ballot box sat beneath the basketball hoop. Shoes scuffed across the floor. Behind the stage, the candidates waited beside a tangled microphone cable. Miri smoothed her notes. On the bottom page, beneath three grand promises, someone had pencilled a small question: HOW?",
+    "paragraphExercise": "Describe a debate waiting area: establish its mood, add sensory details, show a revealing small action and finish with a detail suggesting doubt."
+  },
+  {
+    "title": "Set 32",
+    "theme": "The dragon inspection",
+    "activities": [
+      [
+        "Stooping through the doorway, the dragon sniffed the ovens, counted the fire extinguishers and signed the safety form.",
+        "Squeezing through the workshop gate, the giant … [four linked actions]"
+      ],
+      [
+        "The inspector’s bag contained a heatproof clipboard, a scorched measuring tape and a sandwich wrapped in foil.",
+        "The giant’s tool belt carried …"
+      ],
+      [
+        "A strict inspector and a considerate guest, Ember folded her wings before entering the bakery.",
+        "A skilled builder and …, Bramble …"
+      ],
+      [
+        "Beside the ovens, two hazards — a pile of flour sacks and a dripping gas pipe — caught Ember’s eye.",
+        "Across the workshop, two dangers — … — …"
+      ],
+      [
+        "Many bakers welcomed the dragon inspector, though most moved their biscuits away from her breath.",
+        "Many villagers welcomed the giant carpenter, though most …"
+      ],
+      [
+        "Without singeing the curtains, Ember leaned towards the faulty oven.",
+        "…, Bramble stepped into the workshop. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a clipboard in one claw and a croissant in the other, Ember considered the bakery’s final score.",
+        "With a hammer in one hand and …"
+      ],
+      [
+        "A line of ember-red scales ran down the inspector’s neck.",
+        "A patch of lichen-green skin …"
+      ],
+      [
+        "The oven belched and rattled as Ember opened the door.",
+        "The giant’s boots … [two precise actions]"
+      ],
+      [
+        "A polished horned helmet rested on the small, flour-dusted table.",
+        "A … glove lay across the … doorway."
+      ],
+      [
+        "Patiently, Ember’s stare became a spotlight exposing every crumb beneath the bench.",
+        "Slowly, the giant’s shadow became … [extend the metaphor]"
+      ],
+      [
+        "The kettle whistled nervously as the dragon approached.",
+        "The workshop door … [sound and personification]"
+      ],
+      [
+        "Ember nibbled the croissant, catching each flake with the tip of a claw.",
+        "Bramble [plucked / crushed] the tiny biscuit from the plate, [balancing / grinding] … [choose for unexpected delicacy]"
+      ]
+    ],
+    "gemmell": "The bakery felt very small with a dragon inside. Warm yeast scented the air, and trays of rolls crowded the window. Ember’s scales brushed the ceiling. A kettle whistled behind her folded wing. On the counter, the baker’s pen rolled towards the edge. One enormous claw stopped it gently, its black tip resting beside a single crumb.",
+    "paragraphExercise": "Describe a giant visiting a tiny workshop: establish scale and atmosphere, add sensory details, show a small movement and finish with unexpected gentleness."
+  },
+  {
+    "title": "Set 33",
+    "theme": "The swapped suitcase",
+    "activities": [
+      [
+        "Hauling the case upstairs, Leni unfastened the straps, lifted the lid and stared at a hundred rubber ducks.",
+        "Dragging the trunk into the attic, her brother … [four linked actions]"
+      ],
+      [
+        "The suitcase contained a purple dressing gown, a packet of duck food and a crown made from drinking straws.",
+        "The parcel contained …"
+      ],
+      [
+        "A frequent traveller and a careless label-reader, Leni brought home the magician’s luggage.",
+        "A meticulous packer and …, Arlo …"
+      ],
+      [
+        "Inside the lid, two details — a circus sticker and a handwritten warning — explained the strange cargo.",
+        "On the parcel wrapping, two details — … — …"
+      ],
+      [
+        "Many passengers checked the colour of their case, though most forgot to check the name on the tag.",
+        "Many customers checked the parcel’s address, though most …"
+      ],
+      [
+        "Before opening the smallest compartment, Leni read the warning again.",
+        "…, Arlo found a concert ticket inside the unfamiliar parcel. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a luggage tag in one hand and a rubber duck in the other, Arlo rang the airport.",
+        "With a parcel receipt in one hand and …"
+      ],
+      [
+        "A plum-purple case waited beside the grey luggage belt.",
+        "A vermilion-red trunk …"
+      ],
+      [
+        "The lid sprang and knocked the lamp sideways.",
+        "The luggage belt … [two precise actions]"
+      ],
+      [
+        "A battered yellow suitcase rested beside the tall, varnished wardrobe.",
+        "A … package blocked the … hallway."
+      ],
+      [
+        "Instantly, the suitcase became a puzzle scattering questions across Leni’s bedroom.",
+        "Gradually, the parcel became … [extend the metaphor]"
+      ],
+      [
+        "The zipper snarled around a trapped sleeve.",
+        "The trolley wheel … [sound and personification]"
+      ],
+      [
+        "Leni sifted through the ducks, searching for an address.",
+        "Arlo [rummaged / arranged] through the loose costumes, [tossing / folding] … [choose for a frantic search]"
+      ]
+    ],
+    "gemmell": "The hotel room smelled of fresh sheets and warm carpet. Leni’s suitcase lay open beneath the window. Yellow ducks filled every corner, their painted eyes fixed on the ceiling. Traffic hummed outside. Under a folded dressing gown, something clicked. A duck rolled onto its side, revealing a tiny brass key taped beneath its belly.",
+    "paragraphExercise": "Describe a mistakenly delivered parcel: establish the ordinary setting, add sensory details, show a small movement and end with an unexpected clue."
+  },
+  {
+    "title": "Set 34",
+    "theme": "The moon café",
+    "activities": [
+      [
+        "Floating behind the counter, Jo caught a drifting cup, fastened it to the tray and poured the captain’s tea.",
+        "Drifting through the space-station kitchen, the cook … [four linked actions]"
+      ],
+      [
+        "The menu offered a vacuum-packed sandwich, a tube of tomato soup and a biscuit tethered to its plate.",
+        "The astronaut’s lunch kit contained …"
+      ],
+      [
+        "A skilled barista and an inexperienced astronaut, Jo made perfect coffee and forgot to secure the milk.",
+        "A patient pilot and …, Rae …"
+      ],
+      [
+        "Outside the window, two sights — a blue planet and a slow-moving satellite — interrupted the customers’ conversation.",
+        "Beyond the airlock, two shapes — … — …"
+      ],
+      [
+        "Many tourists ordered a floating milkshake, though most needed help catching the straw.",
+        "Many passengers tried the weightless noodles, though most …"
+      ],
+      [
+        "Without releasing the tray’s safety clip, Jo leaned towards the service hatch.",
+        "…, Rae opened the cupboard of floating ingredients. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a coffee pouch in one hand and a loose spoon in the other, Rae pushed away from the counter.",
+        "With a repair kit in one hand and …"
+      ],
+      [
+        "An ice-blue planet shone beyond the café window.",
+        "A line of copper-gold lights …"
+      ],
+      [
+        "The spoon spun and rebounded off the cupboard.",
+        "The coffee droplets … [two precise actions]"
+      ],
+      [
+        "A sealed silver pouch hovered above the round, bolted table.",
+        "A … mug floated beside the … window."
+      ],
+      [
+        "Gently, the café became an aquarium carrying its customers through the air.",
+        "Slowly, the space kitchen became … [extend the metaphor]"
+      ],
+      [
+        "The air filter sighed at another cloud of biscuit crumbs.",
+        "The coffee machine … [sound and personification]"
+      ],
+      [
+        "Jo snagged the spoon, pinning it beneath the tray’s elastic strap.",
+        "Rae [nudged / hurled] the floating cup towards the counter, [guiding / launching] … [choose for controlled movement]"
+      ]
+    ],
+    "gemmell": "The moon café smelled of coffee and warm electronics. Tables were bolted to the floor, but spoons travelled wherever they pleased. Earth glowed through the round window. The air filter hummed above the service hatch. A bead of milk drifted past Jo’s nose, catching the planet’s blue light. She opened her mouth and let it land on her tongue.",
+    "paragraphExercise": "Describe a space-station kitchen: establish its atmosphere, develop sensory details, show a small weightless movement and end on an intimate final image."
+  },
+  {
+    "title": "Set 35",
+    "theme": "The missing mascot",
+    "activities": [
+      [
+        "Vaulting the fence, Kai followed the feathers, opened the equipment shed and found the mascot eating the match ball.",
+        "Slipping behind the grandstand, the captain … [four linked actions]"
+      ],
+      [
+        "The shed held a deflated basketball, a stack of cracked cones and a goose wearing the team scarf.",
+        "The changing room held …"
+      ],
+      [
+        "A loyal supporter and an unreliable babysitter, Kai had promised to keep the goose away from the pitch.",
+        "A determined captain and …, Bea …"
+      ],
+      [
+        "Behind the bench, two clues — a chewed ribbon and a muddy webbed footprint — suggested trouble.",
+        "Beside the trophy table, two clues — … — …"
+      ],
+      [
+        "Many supporters cheered the mascot’s entrance, though most stopped when it chased the referee.",
+        "Many players offered to feed the mascot, though most …"
+      ],
+      [
+        "At the sound of the final whistle, the goose charged towards the referee.",
+        "…, Bea noticed the referee’s empty whistle cord. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a team scarf in one hand and a cabbage leaf in the other, Bea attempted a peaceful negotiation.",
+        "With a whistle in one hand and …"
+      ],
+      [
+        "A racing-green scarf trailed from the goose’s neck.",
+        "A splash of marigold-yellow paint …"
+      ],
+      [
+        "The goose lunged and snapped at the dangling whistle.",
+        "The goalkeeper … [two precise actions]"
+      ],
+      [
+        "A mud-spattered white goose stood beside the dented, half-open locker.",
+        "A … jersey hung from the … hook."
+      ],
+      [
+        "Suddenly, the sideline became a battlefield divided by a single angry goose.",
+        "Gradually, the grandstand became … [extend the metaphor]"
+      ],
+      [
+        "The whistle screamed for order above the honking.",
+        "The scoreboard … [sound and personification]"
+      ],
+      [
+        "Kai scooped up the scarf, keeping his fingers away from the beak.",
+        "Bea [snatched / offered] the leaf towards the goose, [dangling / concealing] … [choose for coaxing it closer]"
+      ]
+    ],
+    "gemmell": "The equipment shed smelled of mud and rubber. Footballs filled a wire cage, and orange cones leaned against the wall. Through the doorway came the crowd’s distant chant. A team scarf lay beneath the bench. Its striped end twitched. Then a white head rose between two boots, with the referee’s whistle hanging from its beak.",
+    "paragraphExercise": "Describe a changing room hiding an escaped animal: atmosphere, sensory details, a small movement and a final image revealing what it has stolen."
+  },
+  {
+    "title": "Set 36",
+    "theme": "The echo rehearsal",
+    "activities": [
+      [
+        "Creeping onto the stage, Sasha tested the microphone, heard her own whisper and froze beneath the spotlight.",
+        "Tiptoeing into the recording booth, the singer … [four linked actions]"
+      ],
+      [
+        "The rehearsal room contained a headless mannequin, a velvet curtain and a row of chairs facing the wall.",
+        "The recording studio contained …"
+      ],
+      [
+        "A confident actor and a superstitious stagehand, Sasha refused to rehearse until the ghost light was switched on.",
+        "A talented singer and …, Eli …"
+      ],
+      [
+        "Behind the curtain, two sounds — a dragging chain and a muffled laugh — spoiled the silence.",
+        "Beyond the studio door, two noises — … — …"
+      ],
+      [
+        "Many actors claimed not to fear the dark, though most volunteered for the scenes with daylight.",
+        "Many musicians laughed at the ghost story, though most …"
+      ],
+      [
+        "Without stepping beyond the pool of light, Sasha called into the wings.",
+        "…, Eli heard his name through the studio headphones. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a script in one hand and a torch in the other, Eli checked behind the backdrop.",
+        "With a microphone in one hand and …"
+      ],
+      [
+        "A bruised-purple shadow lay across the empty stage.",
+        "A wash of honey-gold light …"
+      ],
+      [
+        "The curtain billowed and snagged on the mannequin’s arm.",
+        "The loose chain … [two precise actions]"
+      ],
+      [
+        "A frayed velvet curtain concealed the narrow, draughty passage.",
+        "A … mask rested on the … stool."
+      ],
+      [
+        "Slowly, the silence became a tightrope carrying Sasha towards her next word.",
+        "Suddenly, the echo became … [extend the metaphor]"
+      ],
+      [
+        "The stage answered her whisper with a long wooden groan.",
+        "The studio door … [sound and personification]"
+      ],
+      [
+        "Sasha eased the curtain aside, probing the gap with her torch.",
+        "Eli [bellowed / murmured] into the microphone, [filling / barely disturbing] … [choose for a quiet test]"
+      ]
+    ],
+    "gemmell": "The theatre was empty except for Sasha. A single lamp lit the centre of the stage, leaving the seats in darkness. Dust smelled warm beneath the light. A chain tapped somewhere above the curtain. Sasha set down her script. In the front row, a seat folded slowly upwards, as if someone had just stood to leave.",
+    "paragraphExercise": "Describe an empty recording studio: establish atmosphere, develop sensory details, show a small movement and finish with something that invites an explanation."
+  },
+  {
+    "title": "Set 37",
+    "theme": "The tiny detective",
+    "activities": [
+      [
+        "Sliding under the cupboard, Pip examined the crumbs, measured a footprint and accused the hamster of stealing breakfast.",
+        "Squeezing behind the skirting board, the miniature detective … [four linked actions]"
+      ],
+      [
+        "The mouse-sized office held a bottle-cap desk, a stamp-sized rug and a pencil sharpened at both ends.",
+        "The fairy-sized workshop held …"
+      ],
+      [
+        "A meticulous detective and a hopeless climber, Pip solved the case before escaping from the cereal box.",
+        "A brilliant inventor and …, Kit …"
+      ],
+      [
+        "Under the table, two traces — a trail of oats and a smear of jam — led towards the radiator.",
+        "Behind the toaster, two clues — … — …"
+      ],
+      [
+        "Many tiny detectives feared the cat, though most feared the vacuum cleaner more.",
+        "Many garden fairies disliked the rain, though most …"
+      ],
+      [
+        "Using a bent paperclip as a grappling hook, Pip climbed onto the breakfast table.",
+        "…, Kit spotted a trail of soil across the giant windowsill. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a crumb in one hand and a thread in the other, Kit crossed the gap between the chairs.",
+        "With a thimble in one hand and …"
+      ],
+      [
+        "A butter-yellow crumb towered above the detective’s boots.",
+        "A drop of blackberry-purple juice …"
+      ],
+      [
+        "The hamster gnawed and shredded the corner of the evidence bag.",
+        "The miniature detective … [two precise actions]"
+      ],
+      [
+        "A bent steel pin rested beside the huge, sticky jam jar.",
+        "A … button lay beneath the … boot."
+      ],
+      [
+        "Suddenly, the breakfast table became a continent stretching beyond Pip’s torchlight.",
+        "Gradually, the garden became … [extend the metaphor]"
+      ],
+      [
+        "The toaster growled and spat two slices into the air.",
+        "The fridge … [sound and personification]"
+      ],
+      [
+        "Pip scaled the bread crust, anchoring the thread around a seed.",
+        "Kit [scrambled / strolled] up the steep cereal box, [clutching / admiring] … [choose for a difficult climb]"
+      ]
+    ],
+    "gemmell": "The kitchen floor was an enormous country to Pip. Chair legs rose like towers, and a fallen spoon stretched across the tiles. The air smelled of toast and strawberry jam. Above him, the fridge rumbled. A crumb shifted beside the cupboard. From underneath it emerged two whiskers, followed by a nose dusted with the breakfast evidence.",
+    "paragraphExercise": "Describe a garden from a tiny character’s viewpoint: establish scale, develop sensory details, show a small movement and finish with a revealing close-up."
+  },
+  {
+    "title": "Set 38",
+    "theme": "The broken time machine",
+    "activities": [
+      [
+        "Stumbling out of the capsule, Dev checked his watch, brushed snow from his shoes and recognised his own birthday cake.",
+        "Tumbling through the portal, the traveller … [four linked actions]"
+      ],
+      [
+        "The capsule carried a cracked compass, a calendar with no dates and a seatbelt tied in a knot.",
+        "The traveller’s emergency bag contained …"
+      ],
+      [
+        "A gifted scientist and a terrible timekeeper, Dr Moss arrived late for the invention of yesterday.",
+        "A careful researcher and …, Suri …"
+      ],
+      [
+        "On the kitchen table, two details — an untouched cake and a familiar birthday card — made Dev stop.",
+        "On the station platform, two details — … — …"
+      ],
+      [
+        "Many travellers wanted to visit the future, though most packed clothes for the weather they had left.",
+        "Many inventors tested the return button, though most …"
+      ],
+      [
+        "Before the clock could strike the same hour again, Dev unplugged the capsule.",
+        "…, Suri recognised the date on the station clock. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a cracked watch in one hand and a warm birthday candle in the other, Suri studied the date.",
+        "With a train ticket in one hand and …"
+      ],
+      [
+        "A mercury-silver ripple widened around the capsule.",
+        "A flash of glacier-blue light …"
+      ],
+      [
+        "The clock stuttered and lurched backwards by a minute.",
+        "The portal … [two precise actions]"
+      ],
+      [
+        "A frost-covered metal capsule stood beside the small, familiar kitchen table.",
+        "A … suitcase waited on the … platform."
+      ],
+      [
+        "Gradually, time became a staircase folding back beneath Dev’s feet.",
+        "Suddenly, memory became … [extend the metaphor]"
+      ],
+      [
+        "The clock hiccupped at the same second three times.",
+        "The old watch … [sound and personification]"
+      ],
+      [
+        "Dev prised the cover loose, exposing the trembling gears.",
+        "Suri [slammed / eased] the dial towards yesterday, [jolting / coaxing] … [choose for a cautious adjustment]"
+      ]
+    ],
+    "gemmell": "The kitchen smelled of candles and icing. A birthday cake waited in the centre of the table, untouched except for one missing strawberry. Dev’s schoolbag hung from its usual hook. The clock ticked, stopped and ticked again. A strawberry rolled from beneath the capsule. It came to rest exactly where Dev remembered dropping it yesterday.",
+    "paragraphExercise": "Describe a familiar railway platform reached through a faulty time machine: atmosphere, sensory details, small movement and an image suggesting repeated time."
+  },
+  {
+    "title": "Set 39",
+    "theme": "The lost island radio",
+    "activities": [
+      [
+        "Climbing the lookout, Mara raised the aerial, tuned the receiver and heard someone whisper her name.",
+        "Scrambling onto the wreck’s roof, the castaway … [four linked actions]"
+      ],
+      [
+        "The shelter contained a patched raincoat, a tin of bent nails and a radio wrapped in seaweed.",
+        "The wreck’s cabin contained …"
+      ],
+      [
+        "A resourceful sailor and a stubborn optimist, Mara repaired the radio with wire from her necklace.",
+        "A skilled mechanic and …, Sol …"
+      ],
+      [
+        "Through the static, two sounds — a repeated number and a faint bell — interrupted the hiss.",
+        "Beyond the headland, two signals — … — …"
+      ],
+      [
+        "Many ships passed the island, though most stayed too far away to see the smoke.",
+        "Many rescuers searched the main beach, though most …"
+      ],
+      [
+        "After three days of hearing only static, Mara recognised a voice.",
+        "…, Sol switched on the wreck’s emergency beacon. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a radio in one hand and a broken aerial in the other, Sol climbed towards the lookout.",
+        "With a flare in one hand and …"
+      ],
+      [
+        "A strip of jade-green water separated the island from the reef.",
+        "A line of pearl-grey mist …"
+      ],
+      [
+        "The aerial whipped and scraped against the mast.",
+        "The signal flare … [two precise actions]"
+      ],
+      [
+        "A salt-stained canvas shelter leaned beneath the low, wind-bent palms.",
+        "A … radio rested on the … crate."
+      ],
+      [
+        "Relentlessly, the sea became a wall shutting Mara away from every passing ship.",
+        "Slowly, the mist became … [extend the metaphor]"
+      ],
+      [
+        "The radio muttered through its teeth of static.",
+        "The damaged boat … [sound and personification]"
+      ],
+      [
+        "Mara cupped the receiver, straining to separate the voice from the hiss.",
+        "Sol [scanned / admired] the horizon, [searching / decorating] … [choose for a lookout’s attention]"
+      ]
+    ],
+    "gemmell": "The island’s lookout smelled of salt and crushed leaves. Mara’s shelter lay below, its patched roof snapping in the wind. White water broke along the reef. The radio hissed beside her boot. She turned the dial a fraction. Between two bursts of static, a bell rang three times, and a voice began counting backwards from ten.",
+    "paragraphExercise": "Describe a wreck’s cabin with a working radio: establish isolation, develop sensory details, introduce a small adjustment and finish with an unexplained signal."
+  },
+  {
+    "title": "Set 40",
+    "theme": "The last game token",
+    "activities": [
+      [
+        "Dodging the closing gate, Owen reached the machine, inserted his last token and watched the screen spell his name.",
+        "Slipping into the empty bowling alley, the late player … [four linked actions]"
+      ],
+      [
+        "The arcade corner held a cracked racing seat, a flickering claw machine and a cabinet with no power cable.",
+        "The abandoned games room held …"
+      ],
+      [
+        "A talented gamer and an impatient reader, Owen pressed START before finishing the warning.",
+        "A skilled bowler and …, Tess …"
+      ],
+      [
+        "Above the controls, two messages — ONE LIFE LEFT and THIS IS NOT A GAME — flashed in turn.",
+        "Across the scoreboard, two messages — … — …"
+      ],
+      [
+        "Many players reached the final level, though most left before the screen asked a question.",
+        "Many visitors tried the mystery machine, though most …"
+      ],
+      [
+        "Without touching the glowing button, Owen leaned closer to the screen.",
+        "…, Tess watched the bowling pins rise without their strings. [inject a phrase that adds timing, place, manner or a complication]"
+      ],
+      [
+        "With a token in one hand and a torn ticket in the other, Tess searched for the exit.",
+        "With a scorecard in one hand and …"
+      ],
+      [
+        "A neon-lime arrow pulsed beneath the black screen.",
+        "A row of hot-pink lights …"
+      ],
+      [
+        "The cabinet vibrated and swallowed the token.",
+        "The bowling ball … [two precise actions]"
+      ],
+      [
+        "A scratched plastic button glowed beneath the dark, dust-streaked screen.",
+        "A … ticket protruded from the … slot."
+      ],
+      [
+        "Suddenly, the screen became a window opening onto Owen’s own street.",
+        "Gradually, the game became … [extend the metaphor]"
+      ],
+      [
+        "The machine chuckled in a crackle of broken music.",
+        "The ticket dispenser … [sound and personification]"
+      ],
+      [
+        "Owen jabbed the button, hammering it twice before the screen changed.",
+        "Tess [tapped / battered] the glass, [testing / splintering] … [choose for a cautious check]"
+      ]
+    ],
+    "gemmell": "The arcade was quiet after closing. Blue screens lit the carpet, and the air smelled of dust and old popcorn. A racing wheel turned by itself, clicking at each spoke. Owen held one token against his palm. At the end of the room, a dark machine woke. Its screen showed the arcade from above, including the small boy who had just looked up.",
+    "paragraphExercise": "Describe an empty bowling alley where a machine behaves unexpectedly: atmosphere, sensory details, a small movement and a final image involving the observer."
+  }
+];
 
 function buildActivities(set: SetItem) {
   return set.activities.map(([reference, exercise], index) => ({
@@ -462,7 +1665,7 @@ function ActivityCard({
   const bodyText = wide ? "text-[1em] leading-snug" : "text-[1.125em] leading-snug";
 
   return (
-    <section className={`overflow-hidden rounded-2xl border border-white/10 bg-zinc-950 shadow-xl shadow-black/30 ${wide ? "col-span-2" : ""}`}>
+    <section className={`overflow-hidden rounded-2xl border border-white/10 bg-zinc-950 shadow-xl shadow-black/30 ${wide ? "lg:col-span-2" : ""}`}>
       <div className={`${activity.colour} flex items-center justify-between gap-3 px-4 py-2`}>
         <div className="flex min-w-0 flex-1 items-center gap-2">
           <span className="shrink-0 text-xs font-semibold uppercase tracking-wide text-white/70">
@@ -524,8 +1727,12 @@ function ActivityCard({
 export default function ProStemsApp() {
   const [fontSize, setFontSize] = useState(18);
   const [topic, setTopic] = useState(DATA.topic);
+  const [transferTopic, setTransferTopic] = useState("Set 21");
+  const [bank, setBank] = useState<"original" | "transfer">("original");
 
-  const currentSet = SETS.find((set) => set.title === topic) || SETS[0];
+  const currentSet: SetItem = bank === "original"
+    ? SETS.find((set) => set.title === topic) || SETS[0]
+    : TRANSFER_SETS.find((set) => set.title === transferTopic) || TRANSFER_SETS[0];
   const activities = useMemo(() => buildActivities(currentSet), [currentSet]);
 
   const gemmellActivity = currentSet.gemmell
@@ -533,7 +1740,7 @@ export default function ProStemsApp() {
         name: "Gemmell Paragraph",
         colour: "bg-slate-700",
         reference: currentSet.gemmell,
-        exercise: "Recreate your own paragraph using the same pattern: place, atmosphere, sensory detail, small movement, and final image.",
+        exercise: currentSet.paragraphExercise ?? "Recreate your own paragraph using the same pattern: place, atmosphere, sensory detail, small movement, and final image.",
         hint: "Build a short descriptive paragraph, not just one sentence."
       }
     : null;
@@ -541,18 +1748,20 @@ export default function ProStemsApp() {
   return (
     <main className="min-h-screen bg-[#10131f]">
       <header className="sticky top-0 z-10 border-b border-white/10 bg-[#10131f]/95 px-4 py-3 backdrop-blur">
-        <div className="flex w-full items-center gap-4">
+        <div className="flex w-full flex-wrap items-center gap-4">
           <div className="flex min-w-48 items-baseline gap-3">
             <h1 className="text-2xl font-black tracking-tight text-white">{DATA.title}</h1>
             <p className="text-sm text-zinc-400">{DATA.subtitle}</p>
           </div>
 
-          <label className="flex min-w-0 items-center gap-2 text-sm">
-            <span className="shrink-0 uppercase tracking-wide text-zinc-500">Topic</span>
+          <label className="flex min-w-0 flex-wrap items-center gap-2 text-sm">
+            <span className="shrink-0 uppercase tracking-wide text-zinc-500">Original 1–20</span>
             <div className="w-[10%] min-w-[6.5rem] shrink-0">
               <select
                 value={topic}
-                onChange={(event) => setTopic(event.target.value)}
+                aria-label="Original sets 1 to 20"
+                onFocus={() => setBank("original")}
+                onChange={(event) => { setTopic(event.target.value); setBank("original"); }}
                 className="w-full rounded-lg border border-white/10 bg-zinc-900 px-2 py-2 text-white"
               >
                 {SETS.map((set) => (
@@ -562,6 +1771,20 @@ export default function ProStemsApp() {
             </div>
           </label>
 
+          <label className="flex min-w-0 flex-wrap items-center gap-2 text-sm">
+            <span className="shrink-0 uppercase tracking-wide text-zinc-500">Transfer 21–40</span>
+            <select
+              value={transferTopic}
+              aria-label="Transfer sets 21 to 40"
+              onFocus={() => setBank("transfer")}
+              onChange={(event) => { setTransferTopic(event.target.value); setBank("transfer"); }}
+              className="max-w-72 rounded-lg border border-white/10 bg-zinc-900 px-2 py-2 text-white"
+            >
+              {TRANSFER_SETS.map((set) => (
+                <option key={set.title} value={set.title}>{set.title} · {set.theme}</option>
+              ))}
+            </select>
+          </label>
           <div className="ml-auto flex items-center gap-2">
             <button
               type="button"
@@ -582,12 +1805,16 @@ export default function ProStemsApp() {
         </div>
       </header>
 
-      <div className="grid grid-cols-2 gap-4 p-4">
+      <div className="px-4 pt-3 text-sm text-zinc-300" aria-live="polite">
+        {currentSet.title}{currentSet.theme ? ` · ${currentSet.theme} · Craft transfer` : " · Original practice"}
+      </div>
+      <div className="grid grid-cols-1 gap-4 p-4 lg:grid-cols-2">
         {activities.map((activity) => (
-          <ActivityCard key={activity.id} activity={activity} contentFontSize={fontSize} />
+          <ActivityCard key={`${currentSet.title}-${activity.id}`} activity={activity} contentFontSize={fontSize} />
         ))}
-        {gemmellActivity && <ActivityCard activity={gemmellActivity} contentFontSize={fontSize} wide />}
+        {gemmellActivity && <ActivityCard key={`${currentSet.title}-paragraph`} activity={gemmellActivity} contentFontSize={fontSize} wide />}
       </div>
     </main>
   );
 }
+
