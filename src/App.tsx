@@ -414,11 +414,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Slipping beneath the rope, the thief lifted the trophy, tucked it under his coat and nodded to the security camera.",
-        "Duck behind the curtain and build four linked actions: Ducking behind the curtain, the caretaker …"
+        "Ducking behind the curtain, the caretaker …"
       ],
       [
-        "The prize cupboard held a dented silver cup, a medal on a frayed ribbon and a shield with one name scratched out.",
-        "The lost-property drawer contained …"
+        "The abandoned arcade beckoned with its flickering screens, battered cabinets and sticky carpets.",
+        "The deserted carnival loomed with its …"
       ],
       [
         "A gifted pickpocket and a terrible liar, Theo blamed the trophy’s disappearance on a gust of wind.",
@@ -434,7 +434,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Beneath the winners’ photograph, the cleaner found a trail of silver glitter.",
-        "…, the music teacher discovered a muddy shoe on the piano. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the music teacher discovered a muddy shoe on the piano."
       ],
       [
         "With a trophy in one hand and a dripping ice block in the other, Theo struggled to open the gate.",
@@ -446,7 +446,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The camera swivelled and tracked the thief across the foyer.",
-        "The security dog … [use two precise actions]"
+        "The security dog …"
       ],
       [
         "A chipped brass plaque hung above the narrow, unlit staircase.",
@@ -454,19 +454,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Silently, suspicion became a cold finger tracing the back of Theo’s neck.",
-        "Gradually, guilt became … [extend the metaphor]"
+        "Gradually, guilt became …"
       ],
       [
         "The floorboards complained beneath his shoes, each squeak announcing another guilty step.",
-        "The cupboard door … [give it a voice and an attitude]"
+        "The cupboard door …"
       ],
       [
         "The thief edged along the wall, shielding the trophy beneath his coat.",
-        "The guard [sauntered / crept] towards the cupboard, [rattling / easing] … [choose for stealth]"
+        "The guard [sauntered / crept] towards the cupboard, [rattling / easing] …"
       ]
     ],
     "gemmell": "The school hall smelled of floor polish and hot chips. Paper stars hung above the prize table, turning in the draught from the doors. A silver cup stood between two smaller trophies, its handles catching the stage lights. Shoes squeaked along the aisle. Beneath the table, a loose ribbon stirred. Then a hand reached out from behind the cloth and slowly pulled the cup into the dark.",
-    "paragraphExercise": "Describe a museum after closing: establish the place and mood, select sensory details, introduce a small movement and end on a revealing image."
+    "paragraphExercise": "The museum after closing …"
   },
   {
     "title": "Set 22",
@@ -474,11 +474,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Crawling behind the tank, Zara unplugged the pump, caught the leaking water and shouted for the keeper.",
-        "Leaping over the puddle, the night guard … [four linked actions altogether]"
+        "Leaping over the puddle, the night guard …"
       ],
       [
-        "The tank revealed a sunken toy ship, a forest of waving kelp and a crab guarding a bottle cap.",
-        "The moonlit rock pool revealed …"
+        "The moonlit aquarium shimmered with its glowing tanks, rippling shadows and silver bubbles.",
+        "The flooded cavern glittered with its …"
       ],
       [
         "A careful keeper and an enthusiastic inventor, Mei built a feeder that the octopus immediately dismantled.",
@@ -494,7 +494,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Against the keeper’s advice, Zara tapped on the octopus tank.",
-        "…, the keeper counted one fewer fish than yesterday. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the keeper counted one fewer fish than yesterday."
       ],
       [
         "With a torch in one hand and a bucket of squid in the other, Mei followed the wet footprints.",
@@ -506,7 +506,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The octopus gripped and twisted the jar lid.",
-        "The hermit crab … [two precise actions]"
+        "The hermit crab …"
       ],
       [
         "A translucent pink jellyfish pulsed beside the cracked, algae-coated window.",
@@ -514,19 +514,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Patiently, the current became a conveyor belt carrying lost shells towards the drain.",
-        "Relentlessly, the tide became … [extend the metaphor]"
+        "Relentlessly, the tide became …"
       ],
       [
         "The pump coughed twice and grumbled back to life.",
-        "The rusty tap … [sound and personification]"
+        "The rusty tap …"
       ],
       [
         "The ray glided over the sand, brushing the bottom with its fins.",
-        "The seal [hauled / floated] itself onto the ledge, [slapping / folding] … [choose for a clumsy landing]"
+        "The seal [hauled / floated] itself onto the ledge, [slapping / folding] …"
       ]
     ],
     "gemmell": "The aquarium was almost dark. Blue light washed the empty walkway, and the tanks hummed behind thick glass. Salt and wet rope scented the air. A mop stood beside a bucket, its handle reflected in the shark tank. Somewhere, a drip counted the seconds. An octopus arm appeared beneath a loose lid, felt along the rim and curled around the keeper’s forgotten keys.",
-    "paragraphExercise": "Describe an empty reptile house: move from its atmosphere through sensory details to a small movement and a final image suggesting trouble."
+    "paragraphExercise": "The empty reptile house …"
   },
   {
     "title": "Set 23",
@@ -534,11 +534,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Rolling into class, the robot scanned the roll, stamped the worksheets and confiscated its own charging cable.",
-        "Clattering through the library doors, the delivery robot … [four linked actions]"
+        "Clattering through the library doors, the delivery robot …"
       ],
       [
-        "The robot’s desk held a magnetic apple, a stack of blank detention slips and a mug labelled HUMAN FUEL.",
-        "The inventor’s workbench held …"
+        "The robot classroom hummed with its blinking screens, swivelling cameras and buzzing chargers.",
+        "The automated kitchen rattled with its …"
       ],
       [
         "A brilliant mathematician and a literal-minded teacher, Unit Seven marked the question mark as an unanswered question.",
@@ -554,7 +554,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "After a worrying burst of static, the robot announced that lunchtime had been cancelled.",
-        "…, the robot announced that the class pet was the new principal. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the robot announced that the class pet was the new principal."
       ],
       [
         "With a marker in one hand and a magnet in the other, Unit Seven erased the entire timetable.",
@@ -566,7 +566,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The printer whined and disgorged another hundred worksheets.",
-        "The robotic arm … [two precise actions]"
+        "The robotic arm …"
       ],
       [
         "A square steel head turned towards the small, flickering screen.",
@@ -574,19 +574,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Abruptly, the classroom became a factory stamping identical answers onto identical sheets.",
-        "Slowly, the staffroom became … [extend the metaphor]"
+        "Slowly, the staffroom became …"
       ],
       [
         "The loudspeaker barked an instruction, then sulked in a puddle of static.",
-        "The photocopier … [sound and personification]"
+        "The photocopier …"
       ],
       [
         "The robot lumbered between the desks, clipping every chair with its knees.",
-        "The tiny drone [darted / trudged] between the shelves, [dodging / crushing] … [choose for nimble movement]"
+        "The tiny drone [darted / trudged] between the shelves, [dodging / crushing] …"
       ]
     ],
     "gemmell": "The classroom smelled of warm plastic. Desks stood in exact rows, with a ruler placed across the top of every worksheet. The fluorescent lights buzzed. On the board, a green cursor blinked beside the words GOOD MORNING, HUMANS. A charging cable snaked towards the teacher’s desk. Underneath it, a small metal foot tapped in perfect time with the clock.",
-    "paragraphExercise": "Describe a robot’s kitchen: establish an unnatural order, develop sensory details, show a small movement and finish with an unsettling image."
+    "paragraphExercise": "The robot’s kitchen …"
   },
   {
     "title": "Set 24",
@@ -594,11 +594,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Diving across the bench, Sam caught the cake, steadied the wobbling tiers and rescued the bride’s sugar crown.",
-        "Skidding across the dance floor, the waiter … [four linked actions]"
+        "Skidding across the dance floor, the waiter …"
       ],
       [
-        "The ruined icing revealed a crooked chocolate tower, a river of raspberry jam and a tiny bride wearing one boot.",
-        "The collapsed gingerbread village revealed …"
+        "The wedding cake sagged with its crooked tiers, melting roses and drooping ribbons.",
+        "The gingerbread castle glittered with its …"
       ],
       [
         "A talented baker and an overconfident engineer, Aisha trusted a biscuit bridge to support three kilograms of icing.",
@@ -614,7 +614,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "With one eye on the wobbling tower, Sam edged the trolley away from the stairs.",
-        "…, the waiter discovered a biscuit in the bride’s bouquet. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the waiter discovered a biscuit in the bride’s bouquet."
       ],
       [
         "With a piping bag in one hand and a spirit level in the other, Aisha inspected her masterpiece.",
@@ -626,7 +626,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The trolley juddered and veered towards the doorway.",
-        "The sugar tower … [two precise actions]"
+        "The sugar tower …"
       ],
       [
         "A glossy chocolate crown slid down the warm, lopsided cake.",
@@ -634,19 +634,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Mercilessly, the heat became a sculptor bending every sugar flower out of shape.",
-        "Steadily, the rain became … [extend the metaphor]"
+        "Steadily, the rain became …"
       ],
       [
         "The fridge groaned at the sight of another enormous tray.",
-        "The kitchen timer … [sound and personification]"
+        "The kitchen timer …"
       ],
       [
         "The baker dabbed at the crack, coaxing icing into the gap.",
-        "The impatient guest [prodded / cradled] the biscuit bridge, [shattering / supporting] … [choose for careless handling]"
+        "The impatient guest [prodded / cradled] the biscuit bridge, [shattering / supporting] …"
       ]
     ],
     "gemmell": "The kitchen was hotter than the dining room. Butter and toasted sugar hung in the air, and flour dusted the tiles like pale footprints. A three-tier cake leaned beneath the extractor fan. Its tiny sugar bride stood at the edge of the top layer, one arm raised. A wheel squeaked. The trolley shifted forward, and the bride tipped face-first into a rose.",
-    "paragraphExercise": "Describe a competition table covered in fragile models: atmosphere, sensory details, small movement and a final image marking the beginning of a mishap."
+    "paragraphExercise": "The model-building competition …"
   },
   {
     "title": "Set 25",
@@ -654,11 +654,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Squinting into the torchlight, the guard spotted a moving tail, lifted the display cloth and discovered the curator’s cat.",
-        "Kneeling beside the broken case, the detective … [four linked actions]"
+        "Kneeling beside the broken case, the detective …"
       ],
       [
-        "The cabinet contained a cracked bronze helmet, a tiny clay horse and a tooth longer than the guard’s hand.",
-        "The attic trunk contained …"
+        "The midnight museum brooded with its shadowy corridors, silent statues and locked cabinets.",
+        "The deserted theatre lurked with its …"
       ],
       [
         "A respected curator and a secret prankster, Dr Bell placed a rubber duck inside the ancient vase.",
@@ -674,7 +674,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Without touching the fragile glass, the detective examined the dusty handprint.",
-        "…, the curator found a feather inside the locked cabinet. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the curator found a feather inside the locked cabinet."
       ],
       [
         "With a magnifying glass in one hand and a cat biscuit in the other, the guard negotiated with the suspect.",
@@ -686,7 +686,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The cat stalked and pounced on the projector’s moving dot.",
-        "The curator … [two precise actions]"
+        "The curator …"
       ],
       [
         "A narrow iron key lay inside the dusty, velvet-lined case.",
@@ -694,19 +694,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Slowly, the museum became a maze feeding the guard from one dark corridor into another.",
-        "Quietly, the attic became … [extend the metaphor]"
+        "Quietly, the attic became …"
       ],
       [
         "The alarm shrieked its accusation at the empty hall.",
-        "The lift … [sound and personification]"
+        "The lift …"
       ],
       [
         "The guard shuffled past the skeleton, dragging his torch beam across the floor.",
-        "The cat [prowled / marched] beneath the cases, [stalking / greeting] … [choose for a hunt]"
+        "The cat [prowled / marched] beneath the cases, [stalking / greeting] …"
       ]
     ],
     "gemmell": "The museum’s long gallery was cold and still. Glass cases reflected the guard’s torch, multiplying each small movement. The air smelled of dust and the lemon cleaner used on the floor. An iron helmet stared from an empty suit of armour. Somewhere behind the ancient coins, something scratched. A black tail rose above the case and curled around the alarm sensor.",
-    "paragraphExercise": "Describe an antique shop at night: establish atmosphere, sensory details, one small movement and a final image that changes our understanding."
+    "paragraphExercise": "The antique shop after midnight …"
   },
   {
     "title": "Set 26",
@@ -714,11 +714,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Clambering onto the roof, Ben tested the gutter, caught the loose ladder and reached for the stranded kitten.",
-        "Balancing on the jetty, the lifeguard … [four linked actions]"
+        "Balancing on the jetty, the lifeguard …"
       ],
       [
-        "The rooftop offered a crooked television aerial, a patch of cracked tiles and a pigeon glaring from the chimney.",
-        "The storm-damaged balcony offered …"
+        "The storm-damaged rooftop bristled with its snapped aerials, splintered beams and jagged tiles.",
+        "The abandoned jetty sagged with its …"
       ],
       [
         "A fearless climber and a devoted cat owner, Nia borrowed three ladders and forgot to bring the cat carrier.",
@@ -734,7 +734,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Despite the pigeon’s fierce objections, Ben crawled towards the chimney.",
-        "…, the lifeguard noticed a puppy beneath the jetty. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the lifeguard noticed a puppy beneath the jetty."
       ],
       [
         "With a kitten in one hand and a broken tile in the other, Nia reconsidered her route down.",
@@ -746,7 +746,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The ladder flexed and scraped against the gutter.",
-        "The loose sail … [two precise actions]"
+        "The loose sail …"
       ],
       [
         "A soaked ginger kitten crouched beneath the cracked, soot-blackened chimney.",
@@ -754,19 +754,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Suddenly, the gap between the roofs became a mouth waiting for Ben’s next step.",
-        "Gradually, the rising river became … [extend the metaphor]"
+        "Gradually, the rising river became …"
       ],
       [
         "The gutter rattled a warning beneath his boot.",
-        "The jetty … [sound and personification]"
+        "The jetty …"
       ],
       [
         "The kitten wedged itself behind the chimney, hooking its claws into the mortar.",
-        "The puppy [squeezed / strode] beneath the fence, [snagging / polishing] … [choose for a tight escape]"
+        "The puppy [squeezed / strode] beneath the fence, [snagging / polishing] …"
       ]
     ],
     "gemmell": "The roof was slick after the rain. Water gathered in the hollows of the tiles and trickled into a gutter crowded with leaves. A television aerial clicked against its pole. Far below, a bus sighed at the stop. Beneath the chimney, two green eyes watched the ladder approach. A tiny paw emerged, touched the wet tile and withdrew into the shelter of the brickwork.",
-    "paragraphExercise": "Describe a stranded animal beneath a footbridge: move from place and atmosphere through sound and texture to a small, revealing action."
+    "paragraphExercise": "Beneath the footbridge …"
   },
   {
     "title": "Set 27",
@@ -774,11 +774,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Reaching behind the shelf, Priya found a lever, pulled it towards her and opened a door into the wall.",
-        "Peering beneath the stage, the caretaker … [four linked actions]"
+        "Peering beneath the stage, the caretaker …"
       ],
       [
-        "The secret room held a folding bed, a cupboard of costumes and a clock without hands.",
-        "The hidden compartment held …"
+        "The secret library whispered with its rustling pages, creaking shelves and murmuring pipes.",
+        "The hidden workshop hummed with its …"
       ],
       [
         "A quiet librarian and a champion escape artist, Ms Khan could leave a locked room before the kettle boiled.",
@@ -794,7 +794,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Between the atlas and the cookbook, Priya found a book that was warmer than the others.",
-        "…, the magician heard someone knocking inside his empty trunk. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the magician heard someone knocking inside his empty trunk."
       ],
       [
         "With a library card in one hand and a brass key in the other, Ms Khan entered a door labelled STAFF ONLY.",
@@ -806,7 +806,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The shelf pivoted and scraped along the floor.",
-        "The hidden latch … [two precise actions]"
+        "The hidden latch …"
       ],
       [
         "A slim leather notebook rested on the low, dust-coated table.",
@@ -814,19 +814,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Quietly, curiosity became a hook tugging Priya towards the dark opening.",
-        "Insistently, doubt became … [extend the metaphor]"
+        "Insistently, doubt became …"
       ],
       [
         "The old clock cleared its throat with a single hollow tick.",
-        "The locked drawer … [sound and personification]"
+        "The locked drawer …"
       ],
       [
         "Priya traced the faded address, tilting the page towards the lamp.",
-        "The caretaker [skimmed / scrutinised] the torn note, [checking / discarding] … [choose for careful investigation]"
+        "The caretaker [skimmed / scrutinised] the torn note, [checking / discarding] …"
       ]
     ],
     "gemmell": "The library’s back aisle smelled of paper and raincoats. Tall shelves narrowed the light to a thin strip across the carpet. A trolley stood beside the atlas section, its wheels wrapped in hair and dust. From somewhere inside the wall came a quiet ticking. One book protruded from the shelf. Its cover lifted a fraction, although nobody was touching it.",
-    "paragraphExercise": "Describe a second-hand bookshop with a concealed space: atmosphere, sensory details, a small movement and an intriguing final image."
+    "paragraphExercise": "The second-hand bookshop …"
   },
   {
     "title": "Set 28",
@@ -834,11 +834,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Threading through the crowd, Evie reached the stall, counted her coins and challenged the grinning stallholder.",
-        "Squeezing beneath the market awning, Max … [four linked actions]"
+        "Squeezing beneath the market awning, Max …"
       ],
       [
-        "The prize shelf displayed a one-eyed teddy, a plastic crown and a goldfish-shaped whistle.",
-        "The magician’s stall displayed …"
+        "The carnival dazzled with its spinning rides, flashing signs and striped tents.",
+        "The midnight market bustled with its …"
       ],
       [
         "A persuasive salesman and an expert juggler, Mr Vale kept three oranges in the air while explaining the rules.",
@@ -854,7 +854,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "With her last coin balanced on her thumb, Evie considered the suspiciously easy game.",
-        "…, the stallholder offered Isla a second turn. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, the stallholder offered Isla a second turn."
       ],
       [
         "With a crown in one hand and a squeaking hammer in the other, Max marched towards the dodgem cars.",
@@ -866,7 +866,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The prize wheel clicked and shuddered to a stop.",
-        "The dodgem car … [two precise actions]"
+        "The dodgem car …"
       ],
       [
         "A faded striped tent sagged beside the bright, crowded carousel.",
@@ -874,19 +874,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Gradually, the queue became a snake coiling around the ticket booth.",
-        "Suddenly, the crowd became … [extend the metaphor]"
+        "Suddenly, the crowd became …"
       ],
       [
         "The carousel wheezed through another cheerful tune.",
-        "The popcorn machine … [sound and personification]"
+        "The popcorn machine …"
       ],
       [
         "Evie flicked the token, sending it skimming across the polished board.",
-        "Max [lobbed / placed] the beanbag towards the distant bucket, [clearing / nestling against] … [choose for a long throw]"
+        "Max [lobbed / placed] the beanbag towards the distant bucket, [clearing / nestling against] …"
       ]
     ],
     "gemmell": "The carnival’s smallest stall stood between two roaring rides. Its canvas roof flapped above a counter sticky with spilled cordial. Plastic prizes dangled from hooks, their painted smiles fading in the heat. The wheel clicked behind the stallholder. Beneath the counter, his shoe nudged a hidden pedal. The pointer slid past the largest prize and settled on a keyring.",
-    "paragraphExercise": "Describe a suspicious market game: establish the busy setting, select sensory details, show a small concealed movement and end with its consequence."
+    "paragraphExercise": "The market’s last stall …"
   },
   {
     "title": "Set 29",
@@ -894,11 +894,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Ducking beneath the pipes, Hugo tightened the valve, caught the falling gauge and switched off the indoor thunderstorm.",
-        "Wading across the flooded shed, the inventor … [four linked actions]"
+        "Wading across the flooded shed, the inventor …"
       ],
       [
-        "The control panel showed a cracked pressure dial, a snowflake-shaped button and a lever marked PROBABLY SAFE.",
-        "The submarine dashboard showed …"
+        "The weather machine shuddered with its rattling valves, steaming pipes and trembling gauges.",
+        "The experimental submarine groaned with its …"
       ],
       [
         "A talented inventor and an impatient gardener, Mr Yu built a rain machine that flooded his own tomatoes.",
@@ -914,7 +914,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Before the hail reached the kitchen, Hugo dragged the machine towards the shed.",
-        "…, Hana noticed frost forming around the greenhouse door. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Hana noticed frost forming around the greenhouse door."
       ],
       [
         "With a spanner in one hand and an umbrella in the other, Hana approached the leaking engine.",
@@ -926,7 +926,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The valve hissed and spat steam across the bench.",
-        "The frozen pipe … [two precise actions]"
+        "The frozen pipe …"
       ],
       [
         "A frost-coated copper pipe ran across the wet, slippery floor.",
@@ -934,19 +934,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Relentlessly, the storm became a drummer beating on every roof in the street.",
-        "Steadily, the fog became … [extend the metaphor]"
+        "Steadily, the fog became …"
       ],
       [
         "The machine sneezed a shower of ice onto the workbench.",
-        "The boiler … [sound and personification]"
+        "The boiler …"
       ],
       [
         "Hugo wrestled the lever down, forcing the whining motor to stop.",
-        "Hana [feathered / slammed] the control switch, [easing / wrenching] … [choose for a gentle adjustment]"
+        "Hana [feathered / slammed] the control switch, [easing / wrenching] …"
       ]
     ],
     "gemmell": "The shed smelled of wet timber and hot metal. Coils of copper pipe crowded the bench, and condensation ran down a row of jars. A dial trembled between RAIN and REGRET. Thunder rolled inside the ceiling. On a shelf, a snowflake settled on the inventor’s gardening book. It melted across the word DROUGHT, leaving a small dark stain.",
-    "paragraphExercise": "Describe a machine producing unexpected weather in a greenhouse: place, atmosphere, sensory details, small movement and a meaningful final image."
+    "paragraphExercise": "Inside the experimental greenhouse …"
   },
   {
     "title": "Set 30",
@@ -954,11 +954,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Wriggling through the opening, Eden brushed away the cobwebs, raised her torch and read the scratched message.",
-        "Crouching beside the drain, the explorer … [four linked actions]"
+        "Crouching beside the drain, the explorer …"
       ],
       [
-        "The tunnel floor held a snapped torch, a trail of wet footprints and a biscuit tin tied with string.",
-        "The abandoned bunker held …"
+        "The abandoned tunnel echoed with its dripping walls, clattering grates and scurrying rats.",
+        "The underground bunker loomed with its …"
       ],
       [
         "A determined explorer and a cautious friend, Eden checked the rope before entering the tunnel.",
@@ -974,7 +974,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Beyond the last patch of daylight, Eden heard water moving beneath the floor.",
-        "…, Noah raised his camera towards the bunker entrance. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Noah raised his camera towards the bunker entrance."
       ],
       [
         "With a torch in one hand and a folded map in the other, Noah compared the tunnel with the drawing.",
@@ -986,7 +986,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Water seeped and pooled around the explorer’s boots.",
-        "The torch beam … [two precise actions]"
+        "The torch beam …"
       ],
       [
         "A frayed nylon rope stretched along the low, moss-covered wall.",
@@ -994,19 +994,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Slowly, the darkness became a curtain swallowing each inch of the torch beam.",
-        "Gradually, the silence became … [extend the metaphor]"
+        "Gradually, the silence became …"
       ],
       [
         "The tunnel whispered back every word Eden spoke.",
-        "The loose grate … [sound and personification]"
+        "The loose grate …"
       ],
       [
         "Noah inched past the broken ladder, bracing his shoulder against the wall.",
-        "Eden [bounded / shuffled] across the unstable boards, [testing / ignoring] … [choose for caution]"
+        "Eden [bounded / shuffled] across the unstable boards, [testing / ignoring] …"
       ]
     ],
     "gemmell": "The tunnel mouth was half-hidden by ferns. Inside, damp bricks pressed close around the narrow path. Water dripped behind the walls, and the air tasted of soil. A rope ran along the floor towards a bend. Beside it, a muddy footprint shone in the torchlight. A second drop of water struck the print, blurring the sharp edge of a heel.",
-    "paragraphExercise": "Describe an abandoned bunker: establish its atmosphere, select sensory details, show a small movement and end on evidence that someone has recently visited."
+    "paragraphExercise": "The abandoned bunker …"
   },
   {
     "title": "Set 31",
@@ -1014,11 +1014,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Stepping onto the stage, Miri unfolded her notes, adjusted the microphone and promised a pool beside the library.",
-        "Striding into the debate room, the rival candidate … [four linked actions]"
+        "Striding into the debate room, the rival candidate …"
       ],
       [
-        "The campaign table offered a jar of badges, a bowl of free mandarins and a poster promising longer weekends.",
-        "The rival campaign stall offered …"
+        "The election hall buzzed with its chanting students, fluttering banners and crackling speakers.",
+        "The debating chamber bristled with its …"
       ],
       [
         "A confident speaker and a reluctant organiser, Miri won the debate and forgot to submit her nomination.",
@@ -1034,7 +1034,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "After a question from the back row, Miri quietly crossed out the word GUARANTEED.",
-        "…, Jay asked how the free breakfasts would be funded. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Jay asked how the free breakfasts would be funded."
       ],
       [
         "With a microphone in one hand and a torn poster in the other, Jay explained his revised plan.",
@@ -1046,7 +1046,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The audience murmured and shifted when the cost appeared on the screen.",
-        "The returning officer … [two precise actions]"
+        "The returning officer …"
       ],
       [
         "A handwritten paper sign hung above the crowded, sunlit voting desk.",
@@ -1054,19 +1054,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Suddenly, the question became a pin puncturing Miri’s magnificent promise.",
-        "Quietly, the rumour became … [extend the metaphor]"
+        "Quietly, the rumour became …"
       ],
       [
         "The microphone squealed its objection to another shouted promise.",
-        "The hall speakers … [sound and personification]"
+        "The hall speakers …"
       ],
       [
         "Jay weighed the question, pausing before he answered.",
-        "Miri [blurted / measured] her reply, [interrupting / considering] … [choose for an impulsive answer]"
+        "Miri [blurted / measured] her reply, [interrupting / considering] …"
       ]
     ],
     "gemmell": "The hall smelled of warm sandwiches. Campaign posters crowded the walls, and a cardboard ballot box sat beneath the basketball hoop. Shoes scuffed across the floor. Behind the stage, the candidates waited beside a tangled microphone cable. Miri smoothed her notes. On the bottom page, beneath three grand promises, someone had pencilled a small question: HOW?",
-    "paragraphExercise": "Describe a debate waiting area: establish its mood, add sensory details, show a revealing small action and finish with a detail suggesting doubt."
+    "paragraphExercise": "Behind the debate stage …"
   },
   {
     "title": "Set 32",
@@ -1074,11 +1074,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Stooping through the doorway, the dragon sniffed the ovens, counted the fire extinguishers and signed the safety form.",
-        "Squeezing through the workshop gate, the giant … [four linked actions]"
+        "Squeezing through the workshop gate, the giant …"
       ],
       [
-        "The inspector’s bag contained a heatproof clipboard, a scorched measuring tape and a sandwich wrapped in foil.",
-        "The giant’s tool belt carried …"
+        "The dragon bakery glowed with its roaring ovens, golden loaves and copper trays.",
+        "The giant’s workshop thundered with its …"
       ],
       [
         "A strict inspector and a considerate guest, Ember folded her wings before entering the bakery.",
@@ -1094,7 +1094,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Without singeing the curtains, Ember leaned towards the faulty oven.",
-        "…, Bramble stepped into the workshop. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Bramble stepped into the workshop."
       ],
       [
         "With a clipboard in one claw and a croissant in the other, Ember considered the bakery’s final score.",
@@ -1106,7 +1106,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The oven belched and rattled as Ember opened the door.",
-        "The giant’s boots … [two precise actions]"
+        "The giant’s boots …"
       ],
       [
         "A polished horned helmet rested on the small, flour-dusted table.",
@@ -1114,19 +1114,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Patiently, Ember’s stare became a spotlight exposing every crumb beneath the bench.",
-        "Slowly, the giant’s shadow became … [extend the metaphor]"
+        "Slowly, the giant’s shadow became …"
       ],
       [
         "The kettle whistled nervously as the dragon approached.",
-        "The workshop door … [sound and personification]"
+        "The workshop door …"
       ],
       [
         "Ember nibbled the croissant, catching each flake with the tip of a claw.",
-        "Bramble [plucked / crushed] the tiny biscuit from the plate, [balancing / grinding] … [choose for unexpected delicacy]"
+        "Bramble [plucked / crushed] the tiny biscuit from the plate, [balancing / grinding] …"
       ]
     ],
     "gemmell": "The bakery felt very small with a dragon inside. Warm yeast scented the air, and trays of rolls crowded the window. Ember’s scales brushed the ceiling. A kettle whistled behind her folded wing. On the counter, the baker’s pen rolled towards the edge. One enormous claw stopped it gently, its black tip resting beside a single crumb.",
-    "paragraphExercise": "Describe a giant visiting a tiny workshop: establish scale and atmosphere, add sensory details, show a small movement and finish with unexpected gentleness."
+    "paragraphExercise": "The giant’s workshop …"
   },
   {
     "title": "Set 33",
@@ -1134,11 +1134,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Hauling the case upstairs, Leni unfastened the straps, lifted the lid and stared at a hundred rubber ducks.",
-        "Dragging the trunk into the attic, her brother … [four linked actions]"
+        "Dragging the trunk into the attic, her brother …"
       ],
       [
-        "The suitcase contained a purple dressing gown, a packet of duck food and a crown made from drinking straws.",
-        "The parcel contained …"
+        "The circus suitcase bulged with its tangled costumes, crumpled scarves and rubber ducks.",
+        "The magician’s trunk rattled with its …"
       ],
       [
         "A frequent traveller and a careless label-reader, Leni brought home the magician’s luggage.",
@@ -1154,7 +1154,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Before opening the smallest compartment, Leni read the warning again.",
-        "…, Arlo found a concert ticket inside the unfamiliar parcel. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Arlo found a concert ticket inside the unfamiliar parcel."
       ],
       [
         "With a luggage tag in one hand and a rubber duck in the other, Arlo rang the airport.",
@@ -1166,7 +1166,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The lid sprang and knocked the lamp sideways.",
-        "The luggage belt … [two precise actions]"
+        "The luggage belt …"
       ],
       [
         "A battered yellow suitcase rested beside the tall, varnished wardrobe.",
@@ -1174,19 +1174,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Instantly, the suitcase became a puzzle scattering questions across Leni’s bedroom.",
-        "Gradually, the parcel became … [extend the metaphor]"
+        "Gradually, the parcel became …"
       ],
       [
         "The zipper snarled around a trapped sleeve.",
-        "The trolley wheel … [sound and personification]"
+        "The trolley wheel …"
       ],
       [
         "Leni sifted through the ducks, searching for an address.",
-        "Arlo [rummaged / arranged] through the loose costumes, [tossing / folding] … [choose for a frantic search]"
+        "Arlo [rummaged / arranged] through the loose costumes, [tossing / folding] …"
       ]
     ],
     "gemmell": "The hotel room smelled of fresh sheets and warm carpet. Leni’s suitcase lay open beneath the window. Yellow ducks filled every corner, their painted eyes fixed on the ceiling. Traffic hummed outside. Under a folded dressing gown, something clicked. A duck rolled onto its side, revealing a tiny brass key taped beneath its belly.",
-    "paragraphExercise": "Describe a mistakenly delivered parcel: establish the ordinary setting, add sensory details, show a small movement and end with an unexpected clue."
+    "paragraphExercise": "The unfamiliar parcel …"
   },
   {
     "title": "Set 34",
@@ -1194,11 +1194,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Floating behind the counter, Jo caught a drifting cup, fastened it to the tray and poured the captain’s tea.",
-        "Drifting through the space-station kitchen, the cook … [four linked actions]"
+        "Drifting through the space-station kitchen, the cook …"
       ],
       [
-        "The menu offered a vacuum-packed sandwich, a tube of tomato soup and a biscuit tethered to its plate.",
-        "The astronaut’s lunch kit contained …"
+        "The moon café gleamed with its silver tables, floating cups and blue windows.",
+        "The orbital kitchen hummed with its …"
       ],
       [
         "A skilled barista and an inexperienced astronaut, Jo made perfect coffee and forgot to secure the milk.",
@@ -1214,7 +1214,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Without releasing the tray’s safety clip, Jo leaned towards the service hatch.",
-        "…, Rae opened the cupboard of floating ingredients. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Rae opened the cupboard of floating ingredients."
       ],
       [
         "With a coffee pouch in one hand and a loose spoon in the other, Rae pushed away from the counter.",
@@ -1226,7 +1226,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The spoon spun and rebounded off the cupboard.",
-        "The coffee droplets … [two precise actions]"
+        "The coffee droplets …"
       ],
       [
         "A sealed silver pouch hovered above the round, bolted table.",
@@ -1234,19 +1234,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Gently, the café became an aquarium carrying its customers through the air.",
-        "Slowly, the space kitchen became … [extend the metaphor]"
+        "Slowly, the space kitchen became …"
       ],
       [
         "The air filter sighed at another cloud of biscuit crumbs.",
-        "The coffee machine … [sound and personification]"
+        "The coffee machine …"
       ],
       [
         "Jo snagged the spoon, pinning it beneath the tray’s elastic strap.",
-        "Rae [nudged / hurled] the floating cup towards the counter, [guiding / launching] … [choose for controlled movement]"
+        "Rae [nudged / hurled] the floating cup towards the counter, [guiding / launching] …"
       ]
     ],
     "gemmell": "The moon café smelled of coffee and warm electronics. Tables were bolted to the floor, but spoons travelled wherever they pleased. Earth glowed through the round window. The air filter hummed above the service hatch. A bead of milk drifted past Jo’s nose, catching the planet’s blue light. She opened her mouth and let it land on her tongue.",
-    "paragraphExercise": "Describe a space-station kitchen: establish its atmosphere, develop sensory details, show a small weightless movement and end on an intimate final image."
+    "paragraphExercise": "The space-station kitchen …"
   },
   {
     "title": "Set 35",
@@ -1254,11 +1254,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Vaulting the fence, Kai followed the feathers, opened the equipment shed and found the mascot eating the match ball.",
-        "Slipping behind the grandstand, the captain … [four linked actions]"
+        "Slipping behind the grandstand, the captain …"
       ],
       [
-        "The shed held a deflated basketball, a stack of cracked cones and a goose wearing the team scarf.",
-        "The changing room held …"
+        "The grandstand erupted with its stamping supporters, booming drums and waving flags.",
+        "The team bus rattled with its …"
       ],
       [
         "A loyal supporter and an unreliable babysitter, Kai had promised to keep the goose away from the pitch.",
@@ -1274,7 +1274,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "At the sound of the final whistle, the goose charged towards the referee.",
-        "…, Bea noticed the referee’s empty whistle cord. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Bea noticed the referee’s empty whistle cord."
       ],
       [
         "With a team scarf in one hand and a cabbage leaf in the other, Bea attempted a peaceful negotiation.",
@@ -1286,7 +1286,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The goose lunged and snapped at the dangling whistle.",
-        "The goalkeeper … [two precise actions]"
+        "The goalkeeper …"
       ],
       [
         "A mud-spattered white goose stood beside the dented, half-open locker.",
@@ -1294,19 +1294,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Suddenly, the sideline became a battlefield divided by a single angry goose.",
-        "Gradually, the grandstand became … [extend the metaphor]"
+        "Gradually, the grandstand became …"
       ],
       [
         "The whistle screamed for order above the honking.",
-        "The scoreboard … [sound and personification]"
+        "The scoreboard …"
       ],
       [
         "Kai scooped up the scarf, keeping his fingers away from the beak.",
-        "Bea [snatched / offered] the leaf towards the goose, [dangling / concealing] … [choose for coaxing it closer]"
+        "Bea [snatched / offered] the leaf towards the goose, [dangling / concealing] …"
       ]
     ],
     "gemmell": "The equipment shed smelled of mud and rubber. Footballs filled a wire cage, and orange cones leaned against the wall. Through the doorway came the crowd’s distant chant. A team scarf lay beneath the bench. Its striped end twitched. Then a white head rose between two boots, with the referee’s whistle hanging from its beak.",
-    "paragraphExercise": "Describe a changing room hiding an escaped animal: atmosphere, sensory details, a small movement and a final image revealing what it has stolen."
+    "paragraphExercise": "The changing room …"
   },
   {
     "title": "Set 36",
@@ -1314,11 +1314,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Creeping onto the stage, Sasha tested the microphone, heard her own whisper and froze beneath the spotlight.",
-        "Tiptoeing into the recording booth, the singer … [four linked actions]"
+        "Tiptoeing into the recording booth, the singer …"
       ],
       [
-        "The rehearsal room contained a headless mannequin, a velvet curtain and a row of chairs facing the wall.",
-        "The recording studio contained …"
+        "The empty theatre brooded with its sagging curtains, hollow echoes and twitching shadows.",
+        "The deserted studio hummed with its …"
       ],
       [
         "A confident actor and a superstitious stagehand, Sasha refused to rehearse until the ghost light was switched on.",
@@ -1334,7 +1334,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Without stepping beyond the pool of light, Sasha called into the wings.",
-        "…, Eli heard his name through the studio headphones. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Eli heard his name through the studio headphones."
       ],
       [
         "With a script in one hand and a torch in the other, Eli checked behind the backdrop.",
@@ -1346,7 +1346,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The curtain billowed and snagged on the mannequin’s arm.",
-        "The loose chain … [two precise actions]"
+        "The loose chain …"
       ],
       [
         "A frayed velvet curtain concealed the narrow, draughty passage.",
@@ -1354,19 +1354,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Slowly, the silence became a tightrope carrying Sasha towards her next word.",
-        "Suddenly, the echo became … [extend the metaphor]"
+        "Suddenly, the echo became …"
       ],
       [
         "The stage answered her whisper with a long wooden groan.",
-        "The studio door … [sound and personification]"
+        "The studio door …"
       ],
       [
         "Sasha eased the curtain aside, probing the gap with her torch.",
-        "Eli [bellowed / murmured] into the microphone, [filling / barely disturbing] … [choose for a quiet test]"
+        "Eli [bellowed / murmured] into the microphone, [filling / barely disturbing] …"
       ]
     ],
     "gemmell": "The theatre was empty except for Sasha. A single lamp lit the centre of the stage, leaving the seats in darkness. Dust smelled warm beneath the light. A chain tapped somewhere above the curtain. Sasha set down her script. In the front row, a seat folded slowly upwards, as if someone had just stood to leave.",
-    "paragraphExercise": "Describe an empty recording studio: establish atmosphere, develop sensory details, show a small movement and finish with something that invites an explanation."
+    "paragraphExercise": "The empty recording studio …"
   },
   {
     "title": "Set 37",
@@ -1374,11 +1374,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Sliding under the cupboard, Pip examined the crumbs, measured a footprint and accused the hamster of stealing breakfast.",
-        "Squeezing behind the skirting board, the miniature detective … [four linked actions]"
+        "Squeezing behind the skirting board, the miniature detective …"
       ],
       [
-        "The mouse-sized office held a bottle-cap desk, a stamp-sized rug and a pencil sharpened at both ends.",
-        "The fairy-sized workshop held …"
+        "The miniature office gleamed with its polished desk, bright rug and brass lamps.",
+        "The fairy workshop glittered with its …"
       ],
       [
         "A meticulous detective and a hopeless climber, Pip solved the case before escaping from the cereal box.",
@@ -1394,7 +1394,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Using a bent paperclip as a grappling hook, Pip climbed onto the breakfast table.",
-        "…, Kit spotted a trail of soil across the giant windowsill. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Kit spotted a trail of soil across the giant windowsill."
       ],
       [
         "With a crumb in one hand and a thread in the other, Kit crossed the gap between the chairs.",
@@ -1406,7 +1406,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The hamster gnawed and shredded the corner of the evidence bag.",
-        "The miniature detective … [two precise actions]"
+        "The miniature detective …"
       ],
       [
         "A bent steel pin rested beside the huge, sticky jam jar.",
@@ -1414,19 +1414,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Suddenly, the breakfast table became a continent stretching beyond Pip’s torchlight.",
-        "Gradually, the garden became … [extend the metaphor]"
+        "Gradually, the garden became …"
       ],
       [
         "The toaster growled and spat two slices into the air.",
-        "The fridge … [sound and personification]"
+        "The fridge …"
       ],
       [
         "Pip scaled the bread crust, anchoring the thread around a seed.",
-        "Kit [scrambled / strolled] up the steep cereal box, [clutching / admiring] … [choose for a difficult climb]"
+        "Kit [scrambled / strolled] up the steep cereal box, [clutching / admiring] …"
       ]
     ],
     "gemmell": "The kitchen floor was an enormous country to Pip. Chair legs rose like towers, and a fallen spoon stretched across the tiles. The air smelled of toast and strawberry jam. Above him, the fridge rumbled. A crumb shifted beside the cupboard. From underneath it emerged two whiskers, followed by a nose dusted with the breakfast evidence.",
-    "paragraphExercise": "Describe a garden from a tiny character’s viewpoint: establish scale, develop sensory details, show a small movement and finish with a revealing close-up."
+    "paragraphExercise": "From the tiny explorer’s hiding place …"
   },
   {
     "title": "Set 38",
@@ -1434,11 +1434,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Stumbling out of the capsule, Dev checked his watch, brushed snow from his shoes and recognised his own birthday cake.",
-        "Tumbling through the portal, the traveller … [four linked actions]"
+        "Tumbling through the portal, the traveller …"
       ],
       [
-        "The capsule carried a cracked compass, a calendar with no dates and a seatbelt tied in a knot.",
-        "The traveller’s emergency bag contained …"
+        "The time capsule pulsed with its glowing coils, spinning dials and trembling cables.",
+        "The faulty portal shimmered with its …"
       ],
       [
         "A gifted scientist and a terrible timekeeper, Dr Moss arrived late for the invention of yesterday.",
@@ -1454,7 +1454,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Before the clock could strike the same hour again, Dev unplugged the capsule.",
-        "…, Suri recognised the date on the station clock. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Suri recognised the date on the station clock."
       ],
       [
         "With a cracked watch in one hand and a warm birthday candle in the other, Suri studied the date.",
@@ -1466,7 +1466,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The clock stuttered and lurched backwards by a minute.",
-        "The portal … [two precise actions]"
+        "The portal …"
       ],
       [
         "A frost-covered metal capsule stood beside the small, familiar kitchen table.",
@@ -1474,19 +1474,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Gradually, time became a staircase folding back beneath Dev’s feet.",
-        "Suddenly, memory became … [extend the metaphor]"
+        "Suddenly, memory became …"
       ],
       [
         "The clock hiccupped at the same second three times.",
-        "The old watch … [sound and personification]"
+        "The old watch …"
       ],
       [
         "Dev prised the cover loose, exposing the trembling gears.",
-        "Suri [slammed / eased] the dial towards yesterday, [jolting / coaxing] … [choose for a cautious adjustment]"
+        "Suri [slammed / eased] the dial towards yesterday, [jolting / coaxing] …"
       ]
     ],
     "gemmell": "The kitchen smelled of candles and icing. A birthday cake waited in the centre of the table, untouched except for one missing strawberry. Dev’s schoolbag hung from its usual hook. The clock ticked, stopped and ticked again. A strawberry rolled from beneath the capsule. It came to rest exactly where Dev remembered dropping it yesterday.",
-    "paragraphExercise": "Describe a familiar railway platform reached through a faulty time machine: atmosphere, sensory details, small movement and an image suggesting repeated time."
+    "paragraphExercise": "The familiar railway platform …"
   },
   {
     "title": "Set 39",
@@ -1494,11 +1494,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Climbing the lookout, Mara raised the aerial, tuned the receiver and heard someone whisper her name.",
-        "Scrambling onto the wreck’s roof, the castaway … [four linked actions]"
+        "Scrambling onto the wreck’s roof, the castaway …"
       ],
       [
-        "The shelter contained a patched raincoat, a tin of bent nails and a radio wrapped in seaweed.",
-        "The wreck’s cabin contained …"
+        "The island shelter sagged with its frayed ropes, patched canvas and bent poles.",
+        "The wrecked cabin creaked with its …"
       ],
       [
         "A resourceful sailor and a stubborn optimist, Mara repaired the radio with wire from her necklace.",
@@ -1514,7 +1514,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "After three days of hearing only static, Mara recognised a voice.",
-        "…, Sol switched on the wreck’s emergency beacon. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Sol switched on the wreck’s emergency beacon."
       ],
       [
         "With a radio in one hand and a broken aerial in the other, Sol climbed towards the lookout.",
@@ -1526,7 +1526,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The aerial whipped and scraped against the mast.",
-        "The signal flare … [two precise actions]"
+        "The signal flare …"
       ],
       [
         "A salt-stained canvas shelter leaned beneath the low, wind-bent palms.",
@@ -1534,19 +1534,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Relentlessly, the sea became a wall shutting Mara away from every passing ship.",
-        "Slowly, the mist became … [extend the metaphor]"
+        "Slowly, the mist became …"
       ],
       [
         "The radio muttered through its teeth of static.",
-        "The damaged boat … [sound and personification]"
+        "The damaged boat …"
       ],
       [
         "Mara cupped the receiver, straining to separate the voice from the hiss.",
-        "Sol [scanned / admired] the horizon, [searching / decorating] … [choose for a lookout’s attention]"
+        "Sol [scanned / admired] the horizon, [searching / decorating] …"
       ]
     ],
     "gemmell": "The island’s lookout smelled of salt and crushed leaves. Mara’s shelter lay below, its patched roof snapping in the wind. White water broke along the reef. The radio hissed beside her boot. She turned the dial a fraction. Between two bursts of static, a bell rang three times, and a voice began counting backwards from ten.",
-    "paragraphExercise": "Describe a wreck’s cabin with a working radio: establish isolation, develop sensory details, introduce a small adjustment and finish with an unexplained signal."
+    "paragraphExercise": "Inside the wreck’s cabin …"
   },
   {
     "title": "Set 40",
@@ -1554,11 +1554,11 @@ const TRANSFER_SETS: SetItem[] = [
     "activities": [
       [
         "Dodging the closing gate, Owen reached the machine, inserted his last token and watched the screen spell his name.",
-        "Slipping into the empty bowling alley, the late player … [four linked actions]"
+        "Slipping into the empty bowling alley, the late player …"
       ],
       [
-        "The arcade corner held a cracked racing seat, a flickering claw machine and a cabinet with no power cable.",
-        "The abandoned games room held …"
+        "The forgotten arcade flickered with its cracked screens, fading signs and faulty lights.",
+        "The empty bowling alley echoed with its …"
       ],
       [
         "A talented gamer and an impatient reader, Owen pressed START before finishing the warning.",
@@ -1574,7 +1574,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Without touching the glowing button, Owen leaned closer to the screen.",
-        "…, Tess watched the bowling pins rise without their strings. [inject a phrase that adds timing, place, manner or a complication]"
+        "…, Tess watched the bowling pins rise without their strings."
       ],
       [
         "With a token in one hand and a torn ticket in the other, Tess searched for the exit.",
@@ -1586,7 +1586,7 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "The cabinet vibrated and swallowed the token.",
-        "The bowling ball … [two precise actions]"
+        "The bowling ball …"
       ],
       [
         "A scratched plastic button glowed beneath the dark, dust-streaked screen.",
@@ -1594,19 +1594,19 @@ const TRANSFER_SETS: SetItem[] = [
       ],
       [
         "Suddenly, the screen became a window opening onto Owen’s own street.",
-        "Gradually, the game became … [extend the metaphor]"
+        "Gradually, the game became …"
       ],
       [
         "The machine chuckled in a crackle of broken music.",
-        "The ticket dispenser … [sound and personification]"
+        "The ticket dispenser …"
       ],
       [
         "Owen jabbed the button, hammering it twice before the screen changed.",
-        "Tess [tapped / battered] the glass, [testing / splintering] … [choose for a cautious check]"
+        "Tess [tapped / battered] the glass, [testing / splintering] …"
       ]
     ],
     "gemmell": "The arcade was quiet after closing. Blue screens lit the carpet, and the air smelled of dust and old popcorn. A racing wheel turned by itself, clicking at each spoke. Owen held one token against his palm. At the end of the room, a dark machine woke. Its screen showed the arcade from above, including the small boy who had just looked up.",
-    "paragraphExercise": "Describe an empty bowling alley where a machine behaves unexpectedly: atmosphere, sensory details, a small movement and a final image involving the observer."
+    "paragraphExercise": "The deserted bowling alley …"
   }
 ];
 
@@ -1712,10 +1712,10 @@ function ActivityCard({
               <textarea
                 value={answer}
                 onChange={(event) => setAnswer(event.target.value)}
-                placeholder={wide ? "Write the paragraph here..." : "Finish the sentence here..."}
+                placeholder="…"
                 className={`${wide ? "min-h-40" : "min-h-24"} w-full resize-none rounded-xl border border-white/10 bg-zinc-900 p-3 text-[1em] text-white outline-none ring-0 placeholder:text-zinc-600 focus:border-violet-400`}
               />
-              <p className="mt-2 text-[0.75em] leading-snug text-zinc-500">{activity.hint}</p>
+              
             </>
           )}
         </div>
@@ -1740,7 +1740,7 @@ export default function ProStemsApp() {
         name: "Gemmell Paragraph",
         colour: "bg-slate-700",
         reference: currentSet.gemmell,
-        exercise: currentSet.paragraphExercise ?? "Recreate your own paragraph using the same pattern: place, atmosphere, sensory detail, small movement, and final image.",
+        exercise: currentSet.paragraphExercise ?? currentSet.gemmell.replace(/^(The .*?) (?:was|were) [\s\S]*$/, "$1 …"),
         hint: "Build a short descriptive paragraph, not just one sentence."
       }
     : null;
